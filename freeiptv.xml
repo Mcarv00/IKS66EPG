@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.5.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Canal Azteca Uno">
+    <display-name lang="es">Canal Azteca Uno</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <programme start="20251002003000 -0600" stop="20251002010000 -0600" channel="Canal Azteca Uno">
+    <title lang="es">Iglesia Universal</title>
+  </programme>
+  <programme start="20251002010000 -0600" stop="20251002013000 -0600" channel="Canal Azteca Uno">
+    <title lang="es">Inova</title>
+  </programme>
+  <programme start="20251002013000 -0600" stop="20251002020000 -0600" channel="Canal Azteca Uno">
+    <title lang="es">Inova</title>
+  </programme>
+  <programme start="20251002020000 -0600" stop="20251002023000 -0600" channel="Canal Azteca Uno">
+    <title lang="es">Inova</title>
+  </programme>
+  <programme start="20251002023000 -0600" stop="20251002030000 -0600" channel="Canal Azteca Uno">
+    <title lang="es">Inova</title>
+  </programme>
+  <programme start="20251002030000 -0600" stop="20251002033000 -0600" channel="Canal Azteca Uno">
+    <title lang="es">Inova</title>
+  </programme>
+  <programme start="20251002033000 -0600" stop="20251002040000 -0600" channel="Canal Azteca Uno">
+    <title lang="es">Inova</title>
+  </programme>
+  <programme start="20251002040000 -0600" stop="20251002041500 -0600" channel="Canal Azteca Uno">
+    <title lang="es">Barras de ajuste</title>
+  </programme>
+  <programme start="20251002041500 -0600" stop="20251002043000 -0600" channel="Canal Azteca Uno">
+    <title lang="es">RTC</title>
+  </programme>
+  <programme start="20251002043000 -0600" stop="20251002050000 -0600" channel="Canal Azteca Uno">
+    <title lang="es">Inova</title>
+  </programme>
+  <programme start="20251002050000 -0600" stop="20251002060000 -0600" channel="Canal Azteca Uno">
+    <title lang="es">Farmacias Similares</title>
+  </programme>
+  <programme start="20251002060000 -0600" stop="20251002070000 -0600" channel="Canal Azteca Uno">
+    <title lang="es">Hechos AM: Primera línea</title>
+  </programme>
+  <programme start="20251002070000 -0600" stop="20251002080000 -0600" channel="Canal Azteca Uno">
+    <title lang="es">Hechos AM</title>
+  </programme>
+  <programme start="20251002080000 -0600" stop="20251002090000 -0600" channel="Canal Azteca Uno">
+    <title lang="es">Nosotros, ustedes y hechos con los Ruiz Lara</title>
+  </programme>
+  <programme start="20251002090000 -0600" stop="20251002110000 -0600" channel="Canal Azteca Uno">
+    <title lang="es">Venga la alegría</title>
+  </programme>
+  <programme start="20251002110000 -0600" stop="20251002130000 -0600" channel="Canal Azteca Uno">
+    <title lang="es">Venga la alegría</title>
+  </programme>
+  <programme start="20251002130000 -0600" stop="20251002140000 -0600" channel="Canal Azteca Uno">
+    <title lang="es">Ventaneando con Pati Chapoy</title>
+  </programme>
+  <programme start="20251002140000 -0600" stop="20251002150000 -0600" channel="Canal Azteca Uno">
+    <title lang="es">Hechos meridiano</title>
+  </programme>
+  <programme start="20251002150000 -0600" stop="20251002160000 -0600" channel="Canal Azteca Uno">
+    <title lang="es">100 mexicanos</title>
+  </programme>
+  <programme start="20251002160000 -0600" stop="20251002173000 -0600" channel="Canal Azteca Uno">
+    <title lang="es">Al Extremo</title>
+  </programme>
+  <programme start="20251002173000 -0600" stop="20251002193000 -0600" channel="Canal Azteca Uno">
+    <title lang="es">Acércate a Rocío</title>
+  </programme>
+  <programme start="20251002193000 -0600" stop="20251002213000 -0600" channel="Canal Azteca Uno">
+    <title lang="es">Exatlón México</title>
+  </programme>
+  <programme start="20251002213000 -0600" stop="20251002223000 -0600" channel="Canal Azteca Uno">
+    <title lang="es">Rosario tijeras</title>
+  </programme>
+  <programme start="20251002223000 -0600" stop="20251002231500 -0600" channel="Canal Azteca Uno">
+    <title lang="es">Hechos noche</title>
+  </programme>
+  <programme start="20251002231500 -0600" stop="20251002233000 -0600" channel="Canal Azteca Uno">
+    <title lang="es">Hechos CDMX</title>
+  </programme>
+  <programme start="20251002233000 -0600" stop="20251003003000 -0600" channel="Canal Azteca Uno">
+    <title lang="es">Los protagonistas</title>
+  </programme>
+</tv>
