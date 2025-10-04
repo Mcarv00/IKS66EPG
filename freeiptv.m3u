@@ -1,9 +1,9 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-shift="-4"  group-title="TV PREMIUM", HBO HD
+#EXTINF:-1 tvg-shift="-4"  group-title="TV PREMIUM",HBO HD
 http://clubtv.link/s23s/phpcode/lista3.php?c=a04e&token=tecnotokenplustv&f=.m3u8
-#EXTINF:-1 none="-" group-title="TV PREMIUM", AXN HD
+#EXTINF:-1 none="-" group-title="TV PREMIUM",AXN HD
 http://clubtv.link/s23s/phpcode/lista2.php?c=a1i4&f=.m3u8&token=tecnotokenplustv
-#EXTINF:-1 none="-" group-title="TV PREMIUM", AZTECA CINEMA
+#EXTINF:-1 none="-" group-title="TV PREMIUM",AZTECA CINEMA
 http://clubtv.link/s23s/phpcode/lista2.php?c=a0ke&f=.m3u8&token=tecnotokenplustv
