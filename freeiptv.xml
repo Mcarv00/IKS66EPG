@@ -1,0 +1,2307 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.5.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="AXN">
+    <display-name lang="es">AXN</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/axn-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="HBO 2">
+    <display-name lang="es">HBO 2</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_2_latinoamerica-mediano.png" />
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="HBO Mundi">
+    <display-name lang="es">HBO MUNDI</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_mundi-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="HBO">
+    <display-name lang="es">HBO</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="HBO Plus">
+    <display-name lang="es">HBO PLUS</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_plus-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="HBO Pop">
+    <display-name lang="es">Canal HBO POP</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_pop-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="HBO Signature">
+    <display-name lang="es">HBO SIGNATURE</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_signature-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="HBO Xtreme">
+    <display-name lang="es">HBO XTREME</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_xtreme-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Space">
+    <display-name lang="es">SPACE</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/space-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="AMC">
+    <display-name lang="es">AMC</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/amc_latinoamerica-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Cinemax">
+    <display-name lang="es">CINEMAX</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/cinemax_latinoamerica-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Discovery ID">
+    <display-name lang="es">DISCOVERY ID</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Golden Plus">
+    <display-name lang="es">GOLDEN PLUS</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/golden_plus-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Golden Premier">
+    <display-name lang="es">GOLDEN PREMIER</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/golden_premier-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Paramount Channel">
+    <display-name lang="es">PARAMOUNT CHANNEL</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/paramount_channel-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="SyFy">
+    <display-name lang="es">SYFY</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="FX">
+    <display-name lang="es">FX</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/fx-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Warner">
+    <display-name lang="es">WARNER</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/warner_tv-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="ESPN 1 MX">
+    <display-name lang="es">ESPN 1 MX</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <programme start="20251007003500 -0600" stop="20251007012500 -0600" channel="AXN">
+    <title lang="es">Hawaii Five-0</title>
+  </programme>
+  <programme start="20251007012500 -0600" stop="20251007021500 -0600" channel="AXN">
+    <title lang="es">Hawaii Five-0</title>
+  </programme>
+  <programme start="20251007021500 -0600" stop="20251007030500 -0600" channel="AXN">
+    <title lang="es">CSI: NY</title>
+  </programme>
+  <programme start="20251007030500 -0600" stop="20251007040000 -0600" channel="AXN">
+    <title lang="es">CSI: NY</title>
+  </programme>
+  <programme start="20251007040000 -0600" stop="20251007050000 -0600" channel="AXN">
+    <title lang="es">CSI: NY</title>
+  </programme>
+  <programme start="20251007050000 -0600" stop="20251007060000 -0600" channel="AXN">
+    <title lang="es">CSI: NY</title>
+  </programme>
+  <programme start="20251007060000 -0600" stop="20251007070000 -0600" channel="AXN">
+    <title lang="es">CSI: NY</title>
+  </programme>
+  <programme start="20251007070000 -0600" stop="20251007080000 -0600" channel="AXN">
+    <title lang="es">CSI: NY</title>
+  </programme>
+  <programme start="20251007080000 -0600" stop="20251007090000 -0600" channel="AXN">
+    <title lang="es">CSI: NY</title>
+  </programme>
+  <programme start="20251007090000 -0600" stop="20251007100000 -0600" channel="AXN">
+    <title lang="es">NCIS</title>
+  </programme>
+  <programme start="20251007100000 -0600" stop="20251007105000 -0600" channel="AXN">
+    <title lang="es">Maratón Criminal Minds</title>
+  </programme>
+  <programme start="20251007105000 -0600" stop="20251007114000 -0600" channel="AXN">
+    <title lang="es">Maratón Criminal Minds</title>
+  </programme>
+  <programme start="20251007114000 -0600" stop="20251007123000 -0600" channel="AXN">
+    <title lang="es">Maratón Criminal Minds</title>
+  </programme>
+  <programme start="20251007123000 -0600" stop="20251007132000 -0600" channel="AXN">
+    <title lang="es">Maratón Criminal Minds</title>
+  </programme>
+  <programme start="20251007132000 -0600" stop="20251007141000 -0600" channel="AXN">
+    <title lang="es">Maratón Criminal Minds</title>
+  </programme>
+  <programme start="20251007141000 -0600" stop="20251007150000 -0600" channel="AXN">
+    <title lang="es">Maratón Criminal Minds</title>
+  </programme>
+  <programme start="20251007150000 -0600" stop="20251007155000 -0600" channel="AXN">
+    <title lang="es">Maratón Criminal Minds</title>
+  </programme>
+  <programme start="20251007155000 -0600" stop="20251007164000 -0600" channel="AXN">
+    <title lang="es">Maratón Criminal Minds</title>
+  </programme>
+  <programme start="20251007164000 -0600" stop="20251007173000 -0600" channel="AXN">
+    <title lang="es">Maratón Criminal Minds</title>
+  </programme>
+  <programme start="20251007173000 -0600" stop="20251007182000 -0600" channel="AXN">
+    <title lang="es">Maratón Criminal Minds</title>
+  </programme>
+  <programme start="20251007182000 -0600" stop="20251007191000 -0600" channel="AXN">
+    <title lang="es">Maratón Criminal Minds</title>
+  </programme>
+  <programme start="20251007191000 -0600" stop="20251007200500 -0600" channel="AXN">
+    <title lang="es">Maratón Criminal Minds</title>
+  </programme>
+  <programme start="20251007200500 -0600" stop="20251007210000 -0600" channel="AXN">
+    <title lang="es">Maratón Criminal Minds</title>
+  </programme>
+  <programme start="20251007210000 -0600" stop="20251007215500 -0600" channel="AXN">
+    <title lang="es">SWAT</title>
+  </programme>
+  <programme start="20251007215500 -0600" stop="20251007225000 -0600" channel="AXN">
+    <title lang="es">9-1-1</title>
+  </programme>
+  <programme start="20251007225000 -0600" stop="20251007234000 -0600" channel="AXN">
+    <title lang="es">9-1-1</title>
+  </programme>
+  <programme start="20251007234000 -0600" stop="20251008003000 -0600" channel="AXN">
+    <title lang="es">CSI</title>
+  </programme>
+  <programme start="20251008003000 -0600" stop="20251008012000 -0600" channel="AXN">
+    <title lang="es">Hawaii Five-0</title>
+  </programme>
+  <programme start="20251008012000 -0600" stop="20251008021000 -0600" channel="AXN">
+    <title lang="es">Hawaii Five-0</title>
+  </programme>
+  <programme start="20251008021000 -0600" stop="20251008030500 -0600" channel="AXN">
+    <title lang="es">SWAT</title>
+  </programme>
+  <programme start="20251008030500 -0600" stop="20251008040000 -0600" channel="AXN">
+    <title lang="es">NCIS: New Orleans</title>
+  </programme>
+  <programme start="20251008040000 -0600" stop="20251008050000 -0600" channel="AXN">
+    <title lang="es">NCIS: New Orleans</title>
+  </programme>
+  <programme start="20251008050000 -0600" stop="20251008060000 -0600" channel="AXN">
+    <title lang="es">NCIS: New Orleans</title>
+  </programme>
+  <programme start="20251008060000 -0600" stop="20251008070000 -0600" channel="AXN">
+    <title lang="es">NCIS: New Orleans</title>
+  </programme>
+  <programme start="20251008070000 -0600" stop="20251008080000 -0600" channel="AXN">
+    <title lang="es">NCIS: New Orleans</title>
+  </programme>
+  <programme start="20251008080000 -0600" stop="20251008090000 -0600" channel="AXN">
+    <title lang="es">NCIS: New Orleans</title>
+  </programme>
+  <programme start="20251008090000 -0600" stop="20251008100000 -0600" channel="AXN">
+    <title lang="es">NCIS</title>
+  </programme>
+  <programme start="20251008100000 -0600" stop="20251008105000 -0600" channel="AXN">
+    <title lang="es">Maratón Criminal Minds</title>
+  </programme>
+  <programme start="20251008105000 -0600" stop="20251008114000 -0600" channel="AXN">
+    <title lang="es">Maratón Criminal Minds</title>
+  </programme>
+  <programme start="20251008114000 -0600" stop="20251008123000 -0600" channel="AXN">
+    <title lang="es">Maratón Criminal Minds</title>
+  </programme>
+  <programme start="20251008123000 -0600" stop="20251008132000 -0600" channel="AXN">
+    <title lang="es">Maratón Criminal Minds</title>
+  </programme>
+  <programme start="20251008132000 -0600" stop="20251008141000 -0600" channel="AXN">
+    <title lang="es">Maratón Criminal Minds</title>
+  </programme>
+  <programme start="20251008141000 -0600" stop="20251008150000 -0600" channel="AXN">
+    <title lang="es">Maratón Criminal Minds</title>
+  </programme>
+  <programme start="20251008150000 -0600" stop="20251008155000 -0600" channel="AXN">
+    <title lang="es">Maratón Criminal Minds</title>
+  </programme>
+  <programme start="20251008155000 -0600" stop="20251008164000 -0600" channel="AXN">
+    <title lang="es">Maratón Criminal Minds</title>
+  </programme>
+  <programme start="20251008164000 -0600" stop="20251008173000 -0600" channel="AXN">
+    <title lang="es">Maratón Criminal Minds</title>
+  </programme>
+  <programme start="20251008173000 -0600" stop="20251008182000 -0600" channel="AXN">
+    <title lang="es">Maratón Criminal Minds</title>
+  </programme>
+  <programme start="20251007005000 -0600" stop="20251007024000 -0600" channel="HBO 2">
+    <title lang="es">Observados</title>
+  </programme>
+  <programme start="20251007024000 -0600" stop="20251007042000 -0600" channel="HBO 2">
+    <title lang="es">Poseidon</title>
+  </programme>
+  <programme start="20251007042000 -0600" stop="20251007060000 -0600" channel="HBO 2">
+    <title lang="es">Héroe de Centro Comercial 2</title>
+  </programme>
+  <programme start="20251007060000 -0600" stop="20251007073800 -0600" channel="HBO 2">
+    <title lang="es">Jack y Jill</title>
+  </programme>
+  <programme start="20251007073800 -0600" stop="20251007091800 -0600" channel="HBO 2">
+    <title lang="es">Kung Fu Panda 3</title>
+  </programme>
+  <programme start="20251007091800 -0600" stop="20251007112100 -0600" channel="HBO 2">
+    <title lang="es">Viaje de chicas</title>
+  </programme>
+  <programme start="20251007112100 -0600" stop="20251007130200 -0600" channel="HBO 2">
+    <title lang="es">Vista por Última Vez</title>
+  </programme>
+  <programme start="20251007130200 -0600" stop="20251007145100 -0600" channel="HBO 2">
+    <title lang="es">Las Reinas del Crimen</title>
+  </programme>
+  <programme start="20251007145100 -0600" stop="20251007170700 -0600" channel="HBO 2">
+    <title lang="es">HBO Movies</title>
+  </programme>
+  <programme start="20251007170700 -0600" stop="20251007175700 -0600" channel="HBO 2">
+    <title lang="es">HBO Movies</title>
+  </programme>
+  <programme start="20251007175700 -0600" stop="20251007200700 -0600" channel="HBO 2">
+    <title lang="es">Tornados</title>
+  </programme>
+  <programme start="20251007200700 -0600" stop="20251007220000 -0600" channel="HBO 2">
+    <title lang="es">Beekeeper: Sentencia de Muerte</title>
+  </programme>
+  <programme start="20251007220000 -0600" stop="20251007223500 -0600" channel="HBO 2">
+    <title lang="es">Twisted Metal</title>
+  </programme>
+  <programme start="20251007223500 -0600" stop="20251008005000 -0600" channel="HBO 2">
+    <title lang="es">HBO Movies</title>
+  </programme>
+  <programme start="20251008005000 -0600" stop="20251008032200 -0600" channel="HBO 2">
+    <title lang="es">Flash</title>
+  </programme>
+  <programme start="20251008032200 -0600" stop="20251008060000 -0600" channel="HBO 2">
+    <title lang="es">Gánster Americano</title>
+  </programme>
+  <programme start="20251008060000 -0600" stop="20251008080500 -0600" channel="HBO 2">
+    <title lang="es">Año nuevo</title>
+  </programme>
+  <programme start="20251008080500 -0600" stop="20251008102500 -0600" channel="HBO 2">
+    <title lang="es">La Guerra de los Rohirrim</title>
+  </programme>
+  <programme start="20251008102500 -0600" stop="20251008115800 -0600" channel="HBO 2">
+    <title lang="es">Miedo Profundo</title>
+  </programme>
+  <programme start="20251008115800 -0600" stop="20251008134500 -0600" channel="HBO 2">
+    <title lang="es">Una Película de Minecraft</title>
+  </programme>
+  <programme start="20251008134500 -0600" stop="20251008155000 -0600" channel="HBO 2">
+    <title lang="es">El libro de los secretos</title>
+  </programme>
+  <programme start="20251008155000 -0600" stop="20251008182000 -0600" channel="HBO 2">
+    <title lang="es">El Hombre de Acero</title>
+  </programme>
+  <programme start="20251008182000 -0600" stop="20251008201200 -0600" channel="HBO 2">
+    <title lang="es">Beetlejuice Beetlejuice</title>
+  </programme>
+  <programme start="20251008201200 -0600" stop="20251008220000 -0600" channel="HBO 2">
+    <title lang="es">Una Película de Minecraft</title>
+  </programme>
+  <programme start="20251008220000 -0600" stop="20251008234000 -0600" channel="HBO 2">
+    <title lang="es">Hipnosis Arma Invisible</title>
+  </programme>
+  <programme start="20251008234000 -0600" stop="20251009012200 -0600" channel="HBO 2">
+    <title lang="es">Karate Kid: Leyendas</title>
+  </programme>
+  <programme start="20251009012200 -0600" stop="20251009035200 -0600" channel="HBO 2">
+    <title lang="es">Diamante de sangre</title>
+  </programme>
+  <programme start="20251009035200 -0600" stop="20251009060000 -0600" channel="HBO 2">
+    <title lang="es">Chappie</title>
+  </programme>
+  <programme start="20251009060000 -0600" stop="20251009081300 -0600" channel="HBO 2">
+    <title lang="es">Una tormenta perfecta</title>
+  </programme>
+  <programme start="20251009081300 -0600" stop="20251009100200 -0600" channel="HBO 2">
+    <title lang="es">Garfield: Fuera de Casa</title>
+  </programme>
+  <programme start="20251009100200 -0600" stop="20251009124700 -0600" channel="HBO 2">
+    <title lang="es">H. Potter y el cáliz de fuego</title>
+  </programme>
+  <programme start="20251009124700 -0600" stop="20251009144900 -0600" channel="HBO 2">
+    <title lang="es">Ghostbusters Apocalipsis</title>
+  </programme>
+  <programme start="20251009144900 -0600" stop="20251009165600 -0600" channel="HBO 2">
+    <title lang="es">Dos policías rebeldes</title>
+  </programme>
+  <programme start="20251009165600 -0600" stop="20251009175600 -0600" channel="HBO 2">
+    <title lang="es">HBO Movies</title>
+  </programme>
+  <programme start="20251009175600 -0600" stop="20251009195600 -0600" channel="HBO 2">
+    <title lang="es">Exterminio</title>
+  </programme>
+  <programme start="20251009195600 -0600" stop="20251009220000 -0600" channel="HBO 2">
+    <title lang="es">Ghostbusters Apocalipsis</title>
+  </programme>
+  <programme start="20251009220000 -0600" stop="20251010002500 -0600" channel="HBO 2">
+    <title lang="es">La sustancia</title>
+  </programme>
+  <programme start="20251007001500 -0600" stop="20251007020000 -0600" channel="HBO Mundi">
+    <title lang="es">La niña del mar</title>
+  </programme>
+  <programme start="20251007020000 -0600" stop="20251007030000 -0600" channel="HBO Mundi">
+    <title lang="es">Mis formas favoritas</title>
+  </programme>
+  <programme start="20251007030000 -0600" stop="20251007061000 -0600" channel="HBO Mundi">
+    <title lang="es">Magnolia</title>
+  </programme>
+  <programme start="20251007061000 -0600" stop="20251007082000 -0600" channel="HBO Mundi">
+    <title lang="es">Yolo</title>
+  </programme>
+  <programme start="20251007082000 -0600" stop="20251007101500 -0600" channel="HBO Mundi">
+    <title lang="es">The American Joika</title>
+  </programme>
+  <programme start="20251007101500 -0600" stop="20251007123500 -0600" channel="HBO Mundi">
+    <title lang="es">Todo, en todas partes</title>
+  </programme>
+  <programme start="20251007123500 -0600" stop="20251007141500 -0600" channel="HBO Mundi">
+    <title lang="es">Monolith</title>
+  </programme>
+  <programme start="20251007141500 -0600" stop="20251007155500 -0600" channel="HBO Mundi">
+    <title lang="es">The Beacon</title>
+  </programme>
+  <programme start="20251007155500 -0600" stop="20251007175500 -0600" channel="HBO Mundi">
+    <title lang="es">Animales Nocturnos</title>
+  </programme>
+  <programme start="20251007175500 -0600" stop="20251007200000 -0600" channel="HBO Mundi">
+    <title lang="es">Back to Black</title>
+  </programme>
+  <programme start="20251007200000 -0600" stop="20251007213500 -0600" channel="HBO Mundi">
+    <title lang="es">The last showgirl</title>
+  </programme>
+  <programme start="20251007213500 -0600" stop="20251007232000 -0600" channel="HBO Mundi">
+    <title lang="es">The Last Rifleman</title>
+  </programme>
+  <programme start="20251007232000 -0600" stop="20251008012000 -0600" channel="HBO Mundi">
+    <title lang="es">La cordillera</title>
+  </programme>
+  <programme start="20251008012000 -0600" stop="20251008030000 -0600" channel="HBO Mundi">
+    <title lang="es">Sed de Mal</title>
+  </programme>
+  <programme start="20251008030000 -0600" stop="20251008033000 -0600" channel="HBO Mundi">
+    <title lang="es">El estado de juego violencia</title>
+  </programme>
+  <programme start="20251008033000 -0600" stop="20251008052000 -0600" channel="HBO Mundi">
+    <title lang="es">C'mon c'mon Siempre adelante</title>
+  </programme>
+  <programme start="20251008052000 -0600" stop="20251008083500 -0600" channel="HBO Mundi">
+    <title lang="es">Los delincuentes</title>
+  </programme>
+  <programme start="20251008083500 -0600" stop="20251008101500 -0600" channel="HBO Mundi">
+    <title lang="es">Daddio</title>
+  </programme>
+  <programme start="20251008101500 -0600" stop="20251008124000 -0600" channel="HBO Mundi">
+    <title lang="es">Huérfanos de Brooklyn</title>
+  </programme>
+  <programme start="20251008124000 -0600" stop="20251008143000 -0600" channel="HBO Mundi">
+    <title lang="es">Cry Macho</title>
+  </programme>
+  <programme start="20251008143000 -0600" stop="20251008162000 -0600" channel="HBO Mundi">
+    <title lang="es">Los marginados</title>
+  </programme>
+  <programme start="20251008162000 -0600" stop="20251008200000 -0600" channel="HBO Mundi">
+    <title lang="es">El brutalista</title>
+  </programme>
+  <programme start="20251008200000 -0600" stop="20251008223000 -0600" channel="HBO Mundi">
+    <title lang="es">Leyendas de los héroes Cóndor</title>
+  </programme>
+  <programme start="20251008223000 -0600" stop="20251009000500 -0600" channel="HBO Mundi">
+    <title lang="es">Waltz with bashir</title>
+  </programme>
+  <programme start="20251009000500 -0600" stop="20251009014500 -0600" channel="HBO Mundi">
+    <title lang="es">Días sin huella</title>
+  </programme>
+  <programme start="20251009014500 -0600" stop="20251009030000 -0600" channel="HBO Mundi">
+    <title lang="es">El Hombre invisible</title>
+  </programme>
+  <programme start="20251009030000 -0600" stop="20251009043000 -0600" channel="HBO Mundi">
+    <title lang="es">Alimañas</title>
+  </programme>
+  <programme start="20251009043000 -0600" stop="20251009063000 -0600" channel="HBO Mundi">
+    <title lang="es">En nombre de la tierra</title>
+  </programme>
+  <programme start="20251009063000 -0600" stop="20251009083500 -0600" channel="HBO Mundi">
+    <title lang="es">Monkey Man El despertar</title>
+  </programme>
+  <programme start="20251009083500 -0600" stop="20251009114000 -0600" channel="HBO Mundi">
+    <title lang="es">Horizon An American Saga</title>
+  </programme>
+  <programme start="20251009114000 -0600" stop="20251009133000 -0600" channel="HBO Mundi">
+    <title lang="es">Fitting in</title>
+  </programme>
+  <programme start="20251009133000 -0600" stop="20251009155500 -0600" channel="HBO Mundi">
+    <title lang="es">La cocina</title>
+  </programme>
+  <programme start="20251009155500 -0600" stop="20251009175000 -0600" channel="HBO Mundi">
+    <title lang="es">El Buen Mentiroso</title>
+  </programme>
+  <programme start="20251009175000 -0600" stop="20251009200000 -0600" channel="HBO Mundi">
+    <title lang="es">Soldado anónimo</title>
+  </programme>
+  <programme start="20251009200000 -0600" stop="20251009214500 -0600" channel="HBO Mundi">
+    <title lang="es">The Settlers</title>
+  </programme>
+  <programme start="20251009214500 -0600" stop="20251009235000 -0600" channel="HBO Mundi">
+    <title lang="es">Monkey Man El despertar</title>
+  </programme>
+  <programme start="20251009235000 -0600" stop="20251010030000 -0600" channel="HBO Mundi">
+    <title lang="es">Horizon An American Saga</title>
+  </programme>
+  <programme start="20251007003200 -0600" stop="20251007023500 -0600" channel="HBO">
+    <title lang="es">Godzilla y Kong: El Nuevo Imperio</title>
+  </programme>
+  <programme start="20251007023500 -0600" stop="20251007042300 -0600" channel="HBO">
+    <title lang="es">El Séptimo Hijo</title>
+  </programme>
+  <programme start="20251007042300 -0600" stop="20251007060000 -0600" channel="HBO">
+    <title lang="es">Mi novia Polly</title>
+  </programme>
+  <programme start="20251007060000 -0600" stop="20251007075000 -0600" channel="HBO">
+    <title lang="es">Los Pitufos</title>
+  </programme>
+  <programme start="20251007075000 -0600" stop="20251007100400 -0600" channel="HBO">
+    <title lang="es">Parque Jurásico</title>
+  </programme>
+  <programme start="20251007100400 -0600" stop="20251007105000 -0600" channel="HBO">
+    <title lang="es">Last Week Tonight With John Oliver</title>
+  </programme>
+  <programme start="20251007105000 -0600" stop="20251007132900 -0600" channel="HBO">
+    <title lang="es">Mujer Maravilla 1984</title>
+  </programme>
+  <programme start="20251007132900 -0600" stop="20251007143400 -0600" channel="HBO">
+    <title lang="es">Task</title>
+  </programme>
+  <programme start="20251007143400 -0600" stop="20251007170000 -0600" channel="HBO">
+    <title lang="es">Ángeles y demonios</title>
+  </programme>
+  <programme start="20251007170000 -0600" stop="20251007190000 -0600" channel="HBO">
+    <title lang="es">Exterminio</title>
+  </programme>
+  <programme start="20251007190000 -0600" stop="20251007210000 -0600" channel="HBO">
+    <title lang="es">Exterminio: La Evolución</title>
+  </programme>
+  <programme start="20251007210000 -0600" stop="20251007220500 -0600" channel="HBO">
+    <title lang="es">El acosador nocturno las cintas de Richard Ramirez</title>
+  </programme>
+  <programme start="20251007220500 -0600" stop="20251007231000 -0600" channel="HBO">
+    <title lang="es">El acosador nocturno las cintas de Richard Ramirez</title>
+  </programme>
+  <programme start="20251007231000 -0600" stop="20251008012800 -0600" channel="HBO">
+    <title lang="es">¡Shazam! La Furia de los Dioses</title>
+  </programme>
+  <programme start="20251008012800 -0600" stop="20251008020300 -0600" channel="HBO">
+    <title lang="es">Twisted Metal</title>
+  </programme>
+  <programme start="20251008020300 -0600" stop="20251008040100 -0600" channel="HBO">
+    <title lang="es">Pasajeros</title>
+  </programme>
+  <programme start="20251008040100 -0600" stop="20251008060000 -0600" channel="HBO">
+    <title lang="es">Desconocido</title>
+  </programme>
+  <programme start="20251008060000 -0600" stop="20251008074000 -0600" channel="HBO">
+    <title lang="es">Shrek 2</title>
+  </programme>
+  <programme start="20251008074000 -0600" stop="20251008092700 -0600" channel="HBO">
+    <title lang="es">Garfield: Fuera de Casa</title>
+  </programme>
+  <programme start="20251008092700 -0600" stop="20251008114200 -0600" channel="HBO">
+    <title lang="es">Superman</title>
+  </programme>
+  <programme start="20251008114200 -0600" stop="20251008132500 -0600" channel="HBO">
+    <title lang="es">Vista por Última Vez</title>
+  </programme>
+  <programme start="20251008132500 -0600" stop="20251008140200 -0600" channel="HBO">
+    <title lang="es">Twisted Metal</title>
+  </programme>
+  <programme start="20251008140200 -0600" stop="20251008155600 -0600" channel="HBO">
+    <title lang="es">La trampa</title>
+  </programme>
+  <programme start="20251008155600 -0600" stop="20251008174600 -0600" channel="HBO">
+    <title lang="es">Hombre lobo</title>
+  </programme>
+  <programme start="20251008174600 -0600" stop="20251008194400 -0600" channel="HBO">
+    <title lang="es">No hables con extraños</title>
+  </programme>
+  <programme start="20251008194400 -0600" stop="20251008220000 -0600" channel="HBO">
+    <title lang="es">Superman</title>
+  </programme>
+  <programme start="20251008220000 -0600" stop="20251009000000 -0600" channel="HBO">
+    <title lang="es">Ghostbusters: Apocalipsis Fantasma</title>
+  </programme>
+  <programme start="20251009000000 -0600" stop="20251009022500 -0600" channel="HBO">
+    <title lang="es">Anora</title>
+  </programme>
+  <programme start="20251009022500 -0600" stop="20251009042500 -0600" channel="HBO">
+    <title lang="es">La Chica del Tren</title>
+  </programme>
+  <programme start="20251009042500 -0600" stop="20251009060000 -0600" channel="HBO">
+    <title lang="es">La familia Hollars</title>
+  </programme>
+  <programme start="20251009060000 -0600" stop="20251009082000 -0600" channel="HBO">
+    <title lang="es">El señor de los anillos: La guerra de los Rohirrim</title>
+  </programme>
+  <programme start="20251009082000 -0600" stop="20251009104700 -0600" channel="HBO">
+    <title lang="es">El Sorprendente Hombre Araña 2: La Amenaza de Electro</title>
+  </programme>
+  <programme start="20251009104700 -0600" stop="20251009122700 -0600" channel="HBO">
+    <title lang="es">Karate Kid: Leyendas</title>
+  </programme>
+  <programme start="20251009122700 -0600" stop="20251009141300 -0600" channel="HBO">
+    <title lang="es">Secuestro en el aire, 1971</title>
+  </programme>
+  <programme start="20251009141300 -0600" stop="20251009162100 -0600" channel="HBO">
+    <title lang="es">Black Adam</title>
+  </programme>
+  <programme start="20251009162100 -0600" stop="20251009185000 -0600" channel="HBO">
+    <title lang="es">Flash</title>
+  </programme>
+  <programme start="20251009185000 -0600" stop="20251009203000 -0600" channel="HBO">
+    <title lang="es">Karate Kid: Leyendas</title>
+  </programme>
+  <programme start="20251009203000 -0600" stop="20251009210500 -0600" channel="HBO">
+    <title lang="es">Twisted Metal</title>
+  </programme>
+  <programme start="20251009210500 -0600" stop="20251009220000 -0600" channel="HBO">
+    <title lang="es">Debanhi: ¿Quién mató a nuestra hija?</title>
+  </programme>
+  <programme start="20251009220000 -0600" stop="20251010001000 -0600" channel="HBO">
+    <title lang="es">Tornados</title>
+  </programme>
+  <programme start="20251007011500 -0600" stop="20251007030100 -0600" channel="HBO Plus">
+    <title lang="es">Cómplice en fuga</title>
+  </programme>
+  <programme start="20251007030100 -0600" stop="20251007043600 -0600" channel="HBO Plus">
+    <title lang="es">Posesiones</title>
+  </programme>
+  <programme start="20251007043600 -0600" stop="20251007061600 -0600" channel="HBO Plus">
+    <title lang="es">Verdad o reto</title>
+  </programme>
+  <programme start="20251007061600 -0600" stop="20251007074600 -0600" channel="HBO Plus">
+    <title lang="es">Terror en el río</title>
+  </programme>
+  <programme start="20251007074600 -0600" stop="20251007094100 -0600" channel="HBO Plus">
+    <title lang="es">Maligno</title>
+  </programme>
+  <programme start="20251007094100 -0600" stop="20251007113100 -0600" channel="HBO Plus">
+    <title lang="es">Until Dawn: Noche de Terror</title>
+  </programme>
+  <programme start="20251007113100 -0600" stop="20251007131100 -0600" channel="HBO Plus">
+    <title lang="es">Drácula: La historia Jamás Contada</title>
+  </programme>
+  <programme start="20251007131100 -0600" stop="20251007153600 -0600" channel="HBO Plus">
+    <title lang="es">PECADORES</title>
+  </programme>
+  <programme start="20251007153600 -0600" stop="20251007171100 -0600" channel="HBO Plus">
+    <title lang="es">Destino Final 2</title>
+  </programme>
+  <programme start="20251007171100 -0600" stop="20251007190100 -0600" channel="HBO Plus">
+    <title lang="es">¡Huye!</title>
+  </programme>
+  <programme start="20251007190100 -0600" stop="20251007204100 -0600" channel="HBO Plus">
+    <title lang="es">Háblame</title>
+  </programme>
+  <programme start="20251007204100 -0600" stop="20251007222600 -0600" channel="HBO Plus">
+    <title lang="es">Until Dawn: Noche de Terror</title>
+  </programme>
+  <programme start="20251007222600 -0600" stop="20251008000100 -0600" channel="HBO Plus">
+    <title lang="es">Pesadilla en la Calle del Infierno</title>
+  </programme>
+  <programme start="20251008000100 -0600" stop="20251008012600 -0600" channel="HBO Plus">
+    <title lang="es">Un extraño en el bosque</title>
+  </programme>
+  <programme start="20251008012600 -0600" stop="20251008030100 -0600" channel="HBO Plus">
+    <title lang="es">Noche de graduación sangrienta</title>
+  </programme>
+  <programme start="20251008030100 -0600" stop="20251008043600 -0600" channel="HBO Plus">
+    <title lang="es">Una llamada perdida</title>
+  </programme>
+  <programme start="20251008043600 -0600" stop="20251008062600 -0600" channel="HBO Plus">
+    <title lang="es">La cosa del otro mundo</title>
+  </programme>
+  <programme start="20251008062600 -0600" stop="20251008081100 -0600" channel="HBO Plus">
+    <title lang="es">Miedo punto com</title>
+  </programme>
+  <programme start="20251008081100 -0600" stop="20251008091100 -0600" channel="HBO Plus">
+    <title lang="es">Hysteria!</title>
+  </programme>
+  <programme start="20251008091100 -0600" stop="20251008100600 -0600" channel="HBO Plus">
+    <title lang="es">Hysteria!</title>
+  </programme>
+  <programme start="20251008100600 -0600" stop="20251008115600 -0600" channel="HBO Plus">
+    <title lang="es">Observados</title>
+  </programme>
+  <programme start="20251008115600 -0600" stop="20251008134100 -0600" channel="HBO Plus">
+    <title lang="es">La Huérfana: El Origen</title>
+  </programme>
+  <programme start="20251008134100 -0600" stop="20251008152100 -0600" channel="HBO Plus">
+    <title lang="es">Destino final 3</title>
+  </programme>
+  <programme start="20251008152100 -0600" stop="20251008174100 -0600" channel="HBO Plus">
+    <title lang="es">It Eso</title>
+  </programme>
+  <programme start="20251008174100 -0600" stop="20251008193000 -0600" channel="HBO Plus">
+    <title lang="es">Observados</title>
+  </programme>
+  <programme start="20251007005500 -0600" stop="20251007030000 -0600" channel="HBO Pop">
+    <title lang="es">De vuelta a la universidad</title>
+  </programme>
+  <programme start="20251007030000 -0600" stop="20251007054000 -0600" channel="HBO Pop">
+    <title lang="es">Elvis</title>
+  </programme>
+  <programme start="20251007054000 -0600" stop="20251007072000 -0600" channel="HBO Pop">
+    <title lang="es">Buenos Vecinos</title>
+  </programme>
+  <programme start="20251007072000 -0600" stop="20251007090000 -0600" channel="HBO Pop">
+    <title lang="es">Buenos vecinos 2</title>
+  </programme>
+  <programme start="20251007090000 -0600" stop="20251007105000 -0600" channel="HBO Pop">
+    <title lang="es">Pase libre</title>
+  </programme>
+  <programme start="20251007105000 -0600" stop="20251007124000 -0600" channel="HBO Pop">
+    <title lang="es">Policias de repuesto</title>
+  </programme>
+  <programme start="20251007124000 -0600" stop="20251007141000 -0600" channel="HBO Pop">
+    <title lang="es">El Grinch</title>
+  </programme>
+  <programme start="20251007141000 -0600" stop="20251007164000 -0600" channel="HBO Pop">
+    <title lang="es">Harry Potter y las Reliquias de la Muerte</title>
+  </programme>
+  <programme start="20251007164000 -0600" stop="20251007183500 -0600" channel="HBO Pop">
+    <title lang="es">El dilema</title>
+  </programme>
+  <programme start="20251007183500 -0600" stop="20251007202000 -0600" channel="HBO Pop">
+    <title lang="es">Uno de esos días</title>
+  </programme>
+  <programme start="20251007202000 -0600" stop="20251007210000 -0600" channel="HBO Pop">
+    <title lang="es">Last week tonight</title>
+  </programme>
+  <programme start="20251007210000 -0600" stop="20251007231000 -0600" channel="HBO Pop">
+    <title lang="es">Cincuenta Sombras de Grey</title>
+  </programme>
+  <programme start="20251007231000 -0600" stop="20251008005500 -0600" channel="HBO Pop">
+    <title lang="es">¿Qué Pasó Ayer? Parte III</title>
+  </programme>
+  <programme start="20251008005500 -0600" stop="20251008030000 -0600" channel="HBO Pop">
+    <title lang="es">Un viaje de sobriedad</title>
+  </programme>
+  <programme start="20251008030000 -0600" stop="20251008045500 -0600" channel="HBO Pop">
+    <title lang="es">Eterno resplandor de una</title>
+  </programme>
+  <programme start="20251008045500 -0600" stop="20251008070500 -0600" channel="HBO Pop">
+    <title lang="es">Cuestión de Tiempo (About Time)</title>
+  </programme>
+  <programme start="20251008070500 -0600" stop="20251008085500 -0600" channel="HBO Pop">
+    <title lang="es">American Pie 2</title>
+  </programme>
+  <programme start="20251008085500 -0600" stop="20251008103500 -0600" channel="HBO Pop">
+    <title lang="es">American Pie La Boda</title>
+  </programme>
+  <programme start="20251008103500 -0600" stop="20251008123000 -0600" channel="HBO Pop">
+    <title lang="es">American Pie el reencuentro</title>
+  </programme>
+  <programme start="20251008123000 -0600" stop="20251008131000 -0600" channel="HBO Pop">
+    <title lang="es">Last week tonight</title>
+  </programme>
+  <programme start="20251008131000 -0600" stop="20251008150000 -0600" channel="HBO Pop">
+    <title lang="es">El Alma de la Fiesta</title>
+  </programme>
+  <programme start="20251008150000 -0600" stop="20251008171500 -0600" channel="HBO Pop">
+    <title lang="es">Shazam!</title>
+  </programme>
+  <programme start="20251008171500 -0600" stop="20251008190500 -0600" channel="HBO Pop">
+    <title lang="es">Hombres de Negro 3</title>
+  </programme>
+  <programme start="20251008190500 -0600" stop="20251008210000 -0600" channel="HBO Pop">
+    <title lang="es">Scott Pilgrim Vs. Los Ex De La Chica De Sus Sueños</title>
+  </programme>
+  <programme start="20251008210000 -0600" stop="20251008231500 -0600" channel="HBO Pop">
+    <title lang="es">Shazam!</title>
+  </programme>
+  <programme start="20251008231500 -0600" stop="20251009012000 -0600" channel="HBO Pop">
+    <title lang="es">Loco y estupido amor</title>
+  </programme>
+  <programme start="20251009012000 -0600" stop="20251009030000 -0600" channel="HBO Pop">
+    <title lang="es">Amor a segunda vista</title>
+  </programme>
+  <programme start="20251009030000 -0600" stop="20251009041500 -0600" channel="HBO Pop">
+    <title lang="es">Leo Reich ¿A quién le importa?</title>
+  </programme>
+  <programme start="20251009041500 -0600" stop="20251009070000 -0600" channel="HBO Pop">
+    <title lang="es">Elvis</title>
+  </programme>
+  <programme start="20251009070000 -0600" stop="20251009085500 -0600" channel="HBO Pop">
+    <title lang="es">Priscilla</title>
+  </programme>
+  <programme start="20251009085500 -0600" stop="20251009105000 -0600" channel="HBO Pop">
+    <title lang="es">Ladrona de Identidades</title>
+  </programme>
+  <programme start="20251009105000 -0600" stop="20251009123500 -0600" channel="HBO Pop">
+    <title lang="es">Noche de Juegos</title>
+  </programme>
+  <programme start="20251009123500 -0600" stop="20251009151000 -0600" channel="HBO Pop">
+    <title lang="es">Batman El caballero de la</title>
+  </programme>
+  <programme start="20251009151000 -0600" stop="20251009171500 -0600" channel="HBO Pop">
+    <title lang="es">El Hombre Araña</title>
+  </programme>
+  <programme start="20251009171500 -0600" stop="20251009191500 -0600" channel="HBO Pop">
+    <title lang="es">Una Esposa de Mentira</title>
+  </programme>
+  <programme start="20251009191500 -0600" stop="20251009210000 -0600" channel="HBO Pop">
+    <title lang="es">Buenos Vecinos</title>
+  </programme>
+  <programme start="20251009210000 -0600" stop="20251009230500 -0600" channel="HBO Pop">
+    <title lang="es">El Hombre Araña</title>
+  </programme>
+  <programme start="20251009230500 -0600" stop="20251010000500 -0600" channel="HBO Pop">
+    <title lang="es">HBO Especiales</title>
+  </programme>
+  <programme start="20251007010000 -0600" stop="20251007030000 -0600" channel="HBO Signature">
+    <title lang="es">Loco, no demente</title>
+  </programme>
+  <programme start="20251007030000 -0600" stop="20251007044000 -0600" channel="HBO Signature">
+    <title lang="es">Siempre, Luis</title>
+  </programme>
+  <programme start="20251007044000 -0600" stop="20251007062000 -0600" channel="HBO Signature">
+    <title lang="es">No fue un accidente</title>
+  </programme>
+  <programme start="20251007062000 -0600" stop="20251007081500 -0600" channel="HBO Signature">
+    <title lang="es">Temple grandin</title>
+  </programme>
+  <programme start="20251007081500 -0600" stop="20251007091500 -0600" channel="HBO Signature">
+    <title lang="es">La Funeraria Dinero y Cenizas</title>
+  </programme>
+  <programme start="20251007091500 -0600" stop="20251007101500 -0600" channel="HBO Signature">
+    <title lang="es">La Funeraria Dinero y Cenizas</title>
+  </programme>
+  <programme start="20251007101500 -0600" stop="20251007111500 -0600" channel="HBO Signature">
+    <title lang="es">La Funeraria Dinero y Cenizas</title>
+  </programme>
+  <programme start="20251007111500 -0600" stop="20251007130500 -0600" channel="HBO Signature">
+    <title lang="es">Diva por siempre</title>
+  </programme>
+  <programme start="20251007130500 -0600" stop="20251007142500 -0600" channel="HBO Signature">
+    <title lang="es">Señorita sí se puede</title>
+  </programme>
+  <programme start="20251007142500 -0600" stop="20251007160000 -0600" channel="HBO Signature">
+    <title lang="es">Me Gusta.Comparto.Sigo</title>
+  </programme>
+  <programme start="20251007160000 -0600" stop="20251007175000 -0600" channel="HBO Signature">
+    <title lang="es">Tell them you love me</title>
+  </programme>
+  <programme start="20251007175000 -0600" stop="20251007185000 -0600" channel="HBO Signature">
+    <title lang="es">La Funeraria Dinero y Cenizas</title>
+  </programme>
+  <programme start="20251007185000 -0600" stop="20251007195000 -0600" channel="HBO Signature">
+    <title lang="es">La Funeraria Dinero y Cenizas</title>
+  </programme>
+  <programme start="20251007195000 -0600" stop="20251007205000 -0600" channel="HBO Signature">
+    <title lang="es">La Funeraria Dinero y Cenizas</title>
+  </programme>
+  <programme start="20251007205000 -0600" stop="20251007224500 -0600" channel="HBO Signature">
+    <title lang="es">Mala educación</title>
+  </programme>
+  <programme start="20251007224500 -0600" stop="20251008002500 -0600" channel="HBO Signature">
+    <title lang="es">Phil Spector</title>
+  </programme>
+  <programme start="20251008002500 -0600" stop="20251008013000 -0600" channel="HBO Signature">
+    <title lang="es">Nikki Glasser Algún día</title>
+  </programme>
+  <programme start="20251008013000 -0600" stop="20251008030000 -0600" channel="HBO Signature">
+    <title lang="es">Fuerza Inquebrantable</title>
+  </programme>
+  <programme start="20251008030000 -0600" stop="20251008044500 -0600" channel="HBO Signature">
+    <title lang="es">Say Hey, Willie Mays!</title>
+  </programme>
+  <programme start="20251008044500 -0600" stop="20251008061500 -0600" channel="HBO Signature">
+    <title lang="es">Los Hijos del Huracán Katrina</title>
+  </programme>
+  <programme start="20251008061500 -0600" stop="20251008081000 -0600" channel="HBO Signature">
+    <title lang="es">O.G</title>
+  </programme>
+  <programme start="20251008081000 -0600" stop="20251008095500 -0600" channel="HBO Signature">
+    <title lang="es">Elizabeth Taylor Las cintas</title>
+  </programme>
+  <programme start="20251008095500 -0600" stop="20251008105500 -0600" channel="HBO Signature">
+    <title lang="es">Carnivale</title>
+  </programme>
+  <programme start="20251008105500 -0600" stop="20251008115500 -0600" channel="HBO Signature">
+    <title lang="es">Carnivale</title>
+  </programme>
+  <programme start="20251008115500 -0600" stop="20251008124700 -0600" channel="HBO Signature">
+    <title lang="es">Carnivale</title>
+  </programme>
+  <programme start="20251008124700 -0600" stop="20251008133700 -0600" channel="HBO Signature">
+    <title lang="es">Carnivale</title>
+  </programme>
+  <programme start="20251008133700 -0600" stop="20251008142900 -0600" channel="HBO Signature">
+    <title lang="es">Carnivale</title>
+  </programme>
+  <programme start="20251008142900 -0600" stop="20251008152900 -0600" channel="HBO Signature">
+    <title lang="es">Carnivale</title>
+  </programme>
+  <programme start="20251008152900 -0600" stop="20251008162300 -0600" channel="HBO Signature">
+    <title lang="es">Carnivale</title>
+  </programme>
+  <programme start="20251008162300 -0600" stop="20251008172300 -0600" channel="HBO Signature">
+    <title lang="es">Carnivale</title>
+  </programme>
+  <programme start="20251008172300 -0600" stop="20251008181100 -0600" channel="HBO Signature">
+    <title lang="es">Carnivale</title>
+  </programme>
+  <programme start="20251008181100 -0600" stop="20251008190600 -0600" channel="HBO Signature">
+    <title lang="es">Carnivale</title>
+  </programme>
+  <programme start="20251008190600 -0600" stop="20251008200200 -0600" channel="HBO Signature">
+    <title lang="es">Carnivale</title>
+  </programme>
+  <programme start="20251008200200 -0600" stop="20251008210000 -0600" channel="HBO Signature">
+    <title lang="es">Carnivale</title>
+  </programme>
+  <programme start="20251008210000 -0600" stop="20251008225000 -0600" channel="HBO Signature">
+    <title lang="es">Hijo nativo</title>
+  </programme>
+  <programme start="20251008225000 -0600" stop="20251009004000 -0600" channel="HBO Signature">
+    <title lang="es">Diva por siempre</title>
+  </programme>
+  <programme start="20251009004000 -0600" stop="20251009030000 -0600" channel="HBO Signature">
+    <title lang="es">No Conoces A Jack</title>
+  </programme>
+  <programme start="20251009030000 -0600" stop="20251009043500 -0600" channel="HBO Signature">
+    <title lang="es">David Holmes El niño que</title>
+  </programme>
+  <programme start="20251009043500 -0600" stop="20251009061000 -0600" channel="HBO Signature">
+    <title lang="es">Black Power De vuelta al sur</title>
+  </programme>
+  <programme start="20251009061000 -0600" stop="20251009065500 -0600" channel="HBO Signature">
+    <title lang="es">Last week tonight</title>
+  </programme>
+  <programme start="20251009065500 -0600" stop="20251009080000 -0600" channel="HBO Signature">
+    <title lang="es">Sam Jay Saluda o dispara</title>
+  </programme>
+  <programme start="20251009080000 -0600" stop="20251009095200 -0600" channel="HBO Signature">
+    <title lang="es">Confirmación</title>
+  </programme>
+  <programme start="20251009095200 -0600" stop="20251009104600 -0600" channel="HBO Signature">
+    <title lang="es">Carnivale</title>
+  </programme>
+  <programme start="20251009104600 -0600" stop="20251009114000 -0600" channel="HBO Signature">
+    <title lang="es">Carnivale</title>
+  </programme>
+  <programme start="20251009114000 -0600" stop="20251009123400 -0600" channel="HBO Signature">
+    <title lang="es">Carnivale</title>
+  </programme>
+  <programme start="20251009123400 -0600" stop="20251009133400 -0600" channel="HBO Signature">
+    <title lang="es">Carnivale</title>
+  </programme>
+  <programme start="20251009133400 -0600" stop="20251009143400 -0600" channel="HBO Signature">
+    <title lang="es">Carnivale</title>
+  </programme>
+  <programme start="20251009143400 -0600" stop="20251009153400 -0600" channel="HBO Signature">
+    <title lang="es">Carnivale</title>
+  </programme>
+  <programme start="20251009153400 -0600" stop="20251009162200 -0600" channel="HBO Signature">
+    <title lang="es">Carnivale</title>
+  </programme>
+  <programme start="20251009162200 -0600" stop="20251009171800 -0600" channel="HBO Signature">
+    <title lang="es">Carnivale</title>
+  </programme>
+  <programme start="20251009171800 -0600" stop="20251009181300 -0600" channel="HBO Signature">
+    <title lang="es">Carnivale</title>
+  </programme>
+  <programme start="20251009181300 -0600" stop="20251009190700 -0600" channel="HBO Signature">
+    <title lang="es">Carnivale</title>
+  </programme>
+  <programme start="20251009190700 -0600" stop="20251009200500 -0600" channel="HBO Signature">
+    <title lang="es">Carnivale</title>
+  </programme>
+  <programme start="20251009200500 -0600" stop="20251009210000 -0600" channel="HBO Signature">
+    <title lang="es">Carnivale</title>
+  </programme>
+  <programme start="20251009210000 -0600" stop="20251009232000 -0600" channel="HBO Signature">
+    <title lang="es">Un Corazón Normal</title>
+  </programme>
+  <programme start="20251009232000 -0600" stop="20251010010000 -0600" channel="HBO Signature">
+    <title lang="es">Revueltas en Baltimore</title>
+  </programme>
+  <programme start="20251007010800 -0600" stop="20251007030000 -0600" channel="HBO Xtreme">
+    <title lang="es">Seduciendo a un extraño</title>
+  </programme>
+  <programme start="20251007030000 -0600" stop="20251007051500 -0600" channel="HBO Xtreme">
+    <title lang="es">La leyenda del zorro</title>
+  </programme>
+  <programme start="20251007051500 -0600" stop="20251007074100 -0600" channel="HBO Xtreme">
+    <title lang="es">Robin Hood</title>
+  </programme>
+  <programme start="20251007074100 -0600" stop="20251007091800 -0600" channel="HBO Xtreme">
+    <title lang="es">El Rey Escorpión</title>
+  </programme>
+  <programme start="20251007091800 -0600" stop="20251007113000 -0600" channel="HBO Xtreme">
+    <title lang="es">Jurassic World Mundo Jurásico</title>
+  </programme>
+  <programme start="20251007113000 -0600" stop="20251007131400 -0600" channel="HBO Xtreme">
+    <title lang="es">Demonio negro</title>
+  </programme>
+  <programme start="20251007131400 -0600" stop="20251007151400 -0600" channel="HBO Xtreme">
+    <title lang="es">Megalodón 2: El Gran Abismo</title>
+  </programme>
+  <programme start="20251007151400 -0600" stop="20251007170500 -0600" channel="HBO Xtreme">
+    <title lang="es">Rampage: Devastación</title>
+  </programme>
+  <programme start="20251007170500 -0600" stop="20251007191700 -0600" channel="HBO Xtreme">
+    <title lang="es">Jurassic World Mundo Jurásico</title>
+  </programme>
+  <programme start="20251007191700 -0600" stop="20251007210000 -0600" channel="HBO Xtreme">
+    <title lang="es">Demonio negro</title>
+  </programme>
+  <programme start="20251007210000 -0600" stop="20251007230000 -0600" channel="HBO Xtreme">
+    <title lang="es">Megalodón 2: El Gran Abismo</title>
+  </programme>
+  <programme start="20251007230000 -0600" stop="20251008005300 -0600" channel="HBO Xtreme">
+    <title lang="es">Rampage: Devastación</title>
+  </programme>
+  <programme start="20251008005300 -0600" stop="20251008030000 -0600" channel="HBO Xtreme">
+    <title lang="es">La batalla de Riddick</title>
+  </programme>
+  <programme start="20251008030000 -0600" stop="20251008050500 -0600" channel="HBO Xtreme">
+    <title lang="es">Blade cazador de vampiros</title>
+  </programme>
+  <programme start="20251008050500 -0600" stop="20251008080800 -0600" channel="HBO Xtreme">
+    <title lang="es">El señor de los anillos</title>
+  </programme>
+  <programme start="20251008080800 -0600" stop="20251008101900 -0600" channel="HBO Xtreme">
+    <title lang="es">El Rey Arturo: La Leyenda de la Espada</title>
+  </programme>
+  <programme start="20251008101900 -0600" stop="20251008120600 -0600" channel="HBO Xtreme">
+    <title lang="es">300: El Nacimiento de un Imperio</title>
+  </programme>
+  <programme start="20251008120600 -0600" stop="20251008143900 -0600" channel="HBO Xtreme">
+    <title lang="es">Furiosa: De la Saga Mad Max</title>
+  </programme>
+  <programme start="20251008143900 -0600" stop="20251008165100 -0600" channel="HBO Xtreme">
+    <title lang="es">Máquinas Mortales</title>
+  </programme>
+  <programme start="20251008165100 -0600" stop="20251008190000 -0600" channel="HBO Xtreme">
+    <title lang="es">Atracción peligrosa</title>
+  </programme>
+  <programme start="20251008190000 -0600" stop="20251008200000 -0600" channel="HBO Xtreme">
+    <title lang="es">Task Unidad Especial</title>
+  </programme>
+  <programme start="20251008200000 -0600" stop="20251008223500 -0600" channel="HBO Xtreme">
+    <title lang="es">Furiosa: De la Saga Mad Max</title>
+  </programme>
+  <programme start="20251008223500 -0600" stop="20251008233500 -0600" channel="HBO Xtreme">
+    <title lang="es">Task Unidad Especial</title>
+  </programme>
+  <programme start="20251008233500 -0600" stop="20251009020100 -0600" channel="HBO Xtreme">
+    <title lang="es">El Primer Hombre en la Luna</title>
+  </programme>
+  <programme start="20251009020100 -0600" stop="20251009030000 -0600" channel="HBO Xtreme">
+    <title lang="es">Ola de 100 pies</title>
+  </programme>
+  <programme start="20251009030000 -0600" stop="20251009051800 -0600" channel="HBO Xtreme">
+    <title lang="es">El último gran héroe</title>
+  </programme>
+  <programme start="20251009051800 -0600" stop="20251009074100 -0600" channel="HBO Xtreme">
+    <title lang="es">La máscara del Zorro</title>
+  </programme>
+  <programme start="20251009074100 -0600" stop="20251009092900 -0600" channel="HBO Xtreme">
+    <title lang="es">The spirit</title>
+  </programme>
+  <programme start="20251009092900 -0600" stop="20251009110900 -0600" channel="HBO Xtreme">
+    <title lang="es">Crank 2 Alto voltaje</title>
+  </programme>
+  <programme start="20251009110900 -0600" stop="20251009130000 -0600" channel="HBO Xtreme">
+    <title lang="es">Baby: El Aprendiz del Crimen</title>
+  </programme>
+  <programme start="20251009130000 -0600" stop="20251009150400 -0600" channel="HBO Xtreme">
+    <title lang="es">Kandahar</title>
+  </programme>
+  <programme start="20251009150400 -0600" stop="20251009171500 -0600" channel="HBO Xtreme">
+    <title lang="es">The Killer</title>
+  </programme>
+  <programme start="20251009171500 -0600" stop="20251009190900 -0600" channel="HBO Xtreme">
+    <title lang="es">Se busca</title>
+  </programme>
+  <programme start="20251009190900 -0600" stop="20251009210000 -0600" channel="HBO Xtreme">
+    <title lang="es">Baby: El Aprendiz del Crimen</title>
+  </programme>
+  <programme start="20251009210000 -0600" stop="20251009230300 -0600" channel="HBO Xtreme">
+    <title lang="es">Kandahar</title>
+  </programme>
+  <programme start="20251009230300 -0600" stop="20251010004800 -0600" channel="HBO Xtreme">
+    <title lang="es">Agente Salt</title>
+  </programme>
+  <programme start="20251007013400 -0600" stop="20251007032400 -0600" channel="Space">
+    <title lang="es">The gangster, the cop</title>
+  </programme>
+  <programme start="20251007032400 -0600" stop="20251007050200 -0600" channel="Space">
+    <title lang="es">Emboscada</title>
+  </programme>
+  <programme start="20251007050200 -0600" stop="20251007060000 -0600" channel="Space">
+    <title lang="es">Guerra de containers</title>
+  </programme>
+  <programme start="20251007060000 -0600" stop="20251007064300 -0600" channel="Space">
+    <title lang="es">Hollywood one on one</title>
+  </programme>
+  <programme start="20251007064300 -0600" stop="20251007082000 -0600" channel="Space">
+    <title lang="es">Twist</title>
+  </programme>
+  <programme start="20251007082000 -0600" stop="20251007102900 -0600" channel="Space">
+    <title lang="es">Attraction La guerra ha</title>
+  </programme>
+  <programme start="20251007102900 -0600" stop="20251007123900 -0600" channel="Space">
+    <title lang="es">Invasión</title>
+  </programme>
+  <programme start="20251007123900 -0600" stop="20251007142300 -0600" channel="Space">
+    <title lang="es">El forastero</title>
+  </programme>
+  <programme start="20251007142300 -0600" stop="20251007162100 -0600" channel="Space">
+    <title lang="es">Los Duros</title>
+  </programme>
+  <programme start="20251007162100 -0600" stop="20251007182300 -0600" channel="Space">
+    <title lang="es">Desconocido</title>
+  </programme>
+  <programme start="20251007182300 -0600" stop="20251007201700 -0600" channel="Space">
+    <title lang="es">Dos inútiles en patrulla</title>
+  </programme>
+  <programme start="20251007201700 -0600" stop="20251007220000 -0600" channel="Space">
+    <title lang="es">Los Perdedores</title>
+  </programme>
+  <programme start="20251007220000 -0600" stop="20251007234500 -0600" channel="Space">
+    <title lang="es">Asesino Ninja</title>
+  </programme>
+  <programme start="20251007234500 -0600" stop="20251008014500 -0600" channel="Space">
+    <title lang="es">Protegiendo al enemigo</title>
+  </programme>
+  <programme start="20251008014500 -0600" stop="20251008032200 -0600" channel="Space">
+    <title lang="es">Manos a las armas</title>
+  </programme>
+  <programme start="20251008032200 -0600" stop="20251008053700 -0600" channel="Space">
+    <title lang="es">Project Gutenberg</title>
+  </programme>
+  <programme start="20251008053700 -0600" stop="20251008060000 -0600" channel="Space">
+    <title lang="es">Hollywood one on one</title>
+  </programme>
+  <programme start="20251008060000 -0600" stop="20251008063700 -0600" channel="Space">
+    <title lang="es">Hollywood one on one</title>
+  </programme>
+  <programme start="20251008063700 -0600" stop="20251008085700 -0600" channel="Space">
+    <title lang="es">The big call</title>
+  </programme>
+  <programme start="20251008085700 -0600" stop="20251008104000 -0600" channel="Space">
+    <title lang="es">Los indestructibles 2</title>
+  </programme>
+  <programme start="20251008104000 -0600" stop="20251008122000 -0600" channel="Space">
+    <title lang="es">El forastero</title>
+  </programme>
+  <programme start="20251008122000 -0600" stop="20251008141800 -0600" channel="Space">
+    <title lang="es">Los Duros</title>
+  </programme>
+  <programme start="20251008141800 -0600" stop="20251008160000 -0600" channel="Space">
+    <title lang="es">Los Perdedores</title>
+  </programme>
+  <programme start="20251008160000 -0600" stop="20251008171500 -0600" channel="Space">
+    <title lang="es">Lucha libre AAA</title>
+  </programme>
+  <programme start="20251008171500 -0600" stop="20251008191400 -0600" channel="Space">
+    <title lang="es">El robo del siglo</title>
+  </programme>
+  <programme start="20251008191400 -0600" stop="20251008205700 -0600" channel="Space">
+    <title lang="es">Blitz</title>
+  </programme>
+  <programme start="20251008205700 -0600" stop="20251008230000 -0600" channel="Space">
+    <title lang="es">Desconocido</title>
+  </programme>
+  <programme start="20251008230000 -0600" stop="20251009010500 -0600" channel="Space">
+    <title lang="es">Protegiendo al enemigo</title>
+  </programme>
+  <programme start="20251009010500 -0600" stop="20251009032500 -0600" channel="Space">
+    <title lang="es">Francotirador</title>
+  </programme>
+  <programme start="20251009032500 -0600" stop="20251009051500 -0600" channel="Space">
+    <title lang="es">The road</title>
+  </programme>
+  <programme start="20251009051500 -0600" stop="20251009060000 -0600" channel="Space">
+    <title lang="es">Los indestructibles 2</title>
+  </programme>
+  <programme start="20251009060000 -0600" stop="20251009073200 -0600" channel="Space">
+    <title lang="es">Line Walker</title>
+  </programme>
+  <programme start="20251009073200 -0600" stop="20251009091900 -0600" channel="Space">
+    <title lang="es">Europe Raiders</title>
+  </programme>
+  <programme start="20251009091900 -0600" stop="20251009110800 -0600" channel="Space">
+    <title lang="es">The Marksman</title>
+  </programme>
+  <programme start="20251009110800 -0600" stop="20251009130600 -0600" channel="Space">
+    <title lang="es">El robo del siglo</title>
+  </programme>
+  <programme start="20251009130600 -0600" stop="20251009144700 -0600" channel="Space">
+    <title lang="es">Blitz</title>
+  </programme>
+  <programme start="20251009144700 -0600" stop="20251009164900 -0600" channel="Space">
+    <title lang="es">Los Goonies</title>
+  </programme>
+  <programme start="20251009164900 -0600" stop="20251009191200 -0600" channel="Space">
+    <title lang="es">Ready player one Comienza</title>
+  </programme>
+  <programme start="20251009191200 -0600" stop="20251009220000 -0600" channel="Space">
+    <title lang="es">Duna</title>
+  </programme>
+  <programme start="20251009220000 -0600" stop="20251010002500 -0600" channel="Space">
+    <title lang="es">Francotirador</title>
+  </programme>
+  <programme start="20251007002500 -0600" stop="20251007022500 -0600" channel="AMC">
+    <title lang="es">Condena brutal</title>
+  </programme>
+  <programme start="20251007022500 -0600" stop="20251007041500 -0600" channel="AMC">
+    <title lang="es">Soldado Universal</title>
+  </programme>
+  <programme start="20251007041500 -0600" stop="20251007062500 -0600" channel="AMC">
+    <title lang="es">Hotel Mumbai: El Atentado</title>
+  </programme>
+  <programme start="20251007062500 -0600" stop="20251007070000 -0600" channel="AMC">
+    <title lang="es">Planet Action</title>
+  </programme>
+  <programme start="20251007070000 -0600" stop="20251007073000 -0600" channel="AMC">
+    <title lang="es">Planet Action</title>
+  </programme>
+  <programme start="20251007073000 -0600" stop="20251007080000 -0600" channel="AMC">
+    <title lang="es">Planet Action</title>
+  </programme>
+  <programme start="20251007080000 -0600" stop="20251007083000 -0600" channel="AMC">
+    <title lang="es">Planet Action</title>
+  </programme>
+  <programme start="20251007083000 -0600" stop="20251007090000 -0600" channel="AMC">
+    <title lang="es">Planet Action</title>
+  </programme>
+  <programme start="20251007090000 -0600" stop="20251007093000 -0600" channel="AMC">
+    <title lang="es">Planet Action</title>
+  </programme>
+  <programme start="20251007093000 -0600" stop="20251007100000 -0600" channel="AMC">
+    <title lang="es">Planet Action</title>
+  </programme>
+  <programme start="20251007100000 -0600" stop="20251007103000 -0600" channel="AMC">
+    <title lang="es">Planet Action</title>
+  </programme>
+  <programme start="20251007103000 -0600" stop="20251007110000 -0600" channel="AMC">
+    <title lang="es">Planet Action</title>
+  </programme>
+  <programme start="20251007110000 -0600" stop="20251007123500 -0600" channel="AMC">
+    <title lang="es">Monstruoso</title>
+  </programme>
+  <programme start="20251007123500 -0600" stop="20251007143500 -0600" channel="AMC">
+    <title lang="es">Camino a Estambul</title>
+  </programme>
+  <programme start="20251007143500 -0600" stop="20251007161500 -0600" channel="AMC">
+    <title lang="es">Dos locas en fuga</title>
+  </programme>
+  <programme start="20251007161500 -0600" stop="20251007181500 -0600" channel="AMC">
+    <title lang="es">Luchando con mi Familia</title>
+  </programme>
+  <programme start="20251007181500 -0600" stop="20251007200000 -0600" channel="AMC">
+    <title lang="es">Hércules</title>
+  </programme>
+  <programme start="20251007200000 -0600" stop="20251007220000 -0600" channel="AMC">
+    <title lang="es">Ghost rider</title>
+  </programme>
+  <programme start="20251007220000 -0600" stop="20251007235000 -0600" channel="AMC">
+    <title lang="es">El Último Cazador de Brujas</title>
+  </programme>
+  <programme start="20251007235000 -0600" stop="20251008005000 -0600" channel="AMC">
+    <title lang="es">Surviving The Cartel</title>
+  </programme>
+  <programme start="20251008005000 -0600" stop="20251008030000 -0600" channel="AMC">
+    <title lang="es">Hotel Mumbai: El Atentado</title>
+  </programme>
+  <programme start="20251008030000 -0600" stop="20251008044500 -0600" channel="AMC">
+    <title lang="es">Secuestro en Venice</title>
+  </programme>
+  <programme start="20251008044500 -0600" stop="20251008063000 -0600" channel="AMC">
+    <title lang="es">Estación espacial 76</title>
+  </programme>
+  <programme start="20251008063000 -0600" stop="20251008070000 -0600" channel="AMC">
+    <title lang="es">Planet Action</title>
+  </programme>
+  <programme start="20251008070000 -0600" stop="20251008073000 -0600" channel="AMC">
+    <title lang="es">Planet Action</title>
+  </programme>
+  <programme start="20251008073000 -0600" stop="20251008080000 -0600" channel="AMC">
+    <title lang="es">Planet Action</title>
+  </programme>
+  <programme start="20251008080000 -0600" stop="20251008083000 -0600" channel="AMC">
+    <title lang="es">Planet Action</title>
+  </programme>
+  <programme start="20251008083000 -0600" stop="20251008090000 -0600" channel="AMC">
+    <title lang="es">Planet Action</title>
+  </programme>
+  <programme start="20251008090000 -0600" stop="20251008093000 -0600" channel="AMC">
+    <title lang="es">Planet Action</title>
+  </programme>
+  <programme start="20251008093000 -0600" stop="20251008100000 -0600" channel="AMC">
+    <title lang="es">Planet Action</title>
+  </programme>
+  <programme start="20251008100000 -0600" stop="20251008103000 -0600" channel="AMC">
+    <title lang="es">Planet Action</title>
+  </programme>
+  <programme start="20251008103000 -0600" stop="20251008110000 -0600" channel="AMC">
+    <title lang="es">Planet Action</title>
+  </programme>
+  <programme start="20251008110000 -0600" stop="20251008113000 -0600" channel="AMC">
+    <title lang="es">Planet Action</title>
+  </programme>
+  <programme start="20251008113000 -0600" stop="20251008120500 -0600" channel="AMC">
+    <title lang="es">Planet Action</title>
+  </programme>
+  <programme start="20251008120500 -0600" stop="20251008140500 -0600" channel="AMC">
+    <title lang="es">Sueño de amor</title>
+  </programme>
+  <programme start="20251008140500 -0600" stop="20251008160500 -0600" channel="AMC">
+    <title lang="es">Cartas a Julieta</title>
+  </programme>
+  <programme start="20251008160500 -0600" stop="20251008181000 -0600" channel="AMC">
+    <title lang="es">Sexy por Accidente</title>
+  </programme>
+  <programme start="20251008181000 -0600" stop="20251008200000 -0600" channel="AMC">
+    <title lang="es">Un gran chico</title>
+  </programme>
+  <programme start="20251008200000 -0600" stop="20251008220000 -0600" channel="AMC">
+    <title lang="es">Non-Stop: Sin Escalas</title>
+  </programme>
+  <programme start="20251008220000 -0600" stop="20251009001000 -0600" channel="AMC">
+    <title lang="es">G.I. Joe: El origen de Cobra</title>
+  </programme>
+  <programme start="20251009001000 -0600" stop="20251009023500 -0600" channel="AMC">
+    <title lang="es">El Justiciero (The Equalizer)</title>
+  </programme>
+  <programme start="20251009023500 -0600" stop="20251009043500 -0600" channel="AMC">
+    <title lang="es">El Vengador Del Futuro</title>
+  </programme>
+  <programme start="20251009043500 -0600" stop="20251009063000 -0600" channel="AMC">
+    <title lang="es">El orfanato</title>
+  </programme>
+  <programme start="20251009063000 -0600" stop="20251009070000 -0600" channel="AMC">
+    <title lang="es">Planet Action</title>
+  </programme>
+  <programme start="20251009070000 -0600" stop="20251009073000 -0600" channel="AMC">
+    <title lang="es">Planet Action</title>
+  </programme>
+  <programme start="20251009073000 -0600" stop="20251009080000 -0600" channel="AMC">
+    <title lang="es">Planet Action</title>
+  </programme>
+  <programme start="20251009080000 -0600" stop="20251009083000 -0600" channel="AMC">
+    <title lang="es">Planet Action</title>
+  </programme>
+  <programme start="20251009083000 -0600" stop="20251009090000 -0600" channel="AMC">
+    <title lang="es">Planet Action</title>
+  </programme>
+  <programme start="20251009090000 -0600" stop="20251009093000 -0600" channel="AMC">
+    <title lang="es">Planet Action</title>
+  </programme>
+  <programme start="20251009093000 -0600" stop="20251009100000 -0600" channel="AMC">
+    <title lang="es">Planet Action</title>
+  </programme>
+  <programme start="20251009100000 -0600" stop="20251009103000 -0600" channel="AMC">
+    <title lang="es">Planet Action</title>
+  </programme>
+  <programme start="20251009103000 -0600" stop="20251009110000 -0600" channel="AMC">
+    <title lang="es">Planet Action</title>
+  </programme>
+  <programme start="20251009110000 -0600" stop="20251009123500 -0600" channel="AMC">
+    <title lang="es">Z</title>
+  </programme>
+  <programme start="20251009123500 -0600" stop="20251009141000 -0600" channel="AMC">
+    <title lang="es">Dos locas en fuga</title>
+  </programme>
+  <programme start="20251009141000 -0600" stop="20251009160000 -0600" channel="AMC">
+    <title lang="es">Hércules</title>
+  </programme>
+  <programme start="20251009160000 -0600" stop="20251009175500 -0600" channel="AMC">
+    <title lang="es">Ghost rider</title>
+  </programme>
+  <programme start="20251009175500 -0600" stop="20251009200000 -0600" channel="AMC">
+    <title lang="es">G.I. Joe: El origen de Cobra</title>
+  </programme>
+  <programme start="20251009200000 -0600" stop="20251009220000 -0600" channel="AMC">
+    <title lang="es">El Último Cazador de Brujas</title>
+  </programme>
+  <programme start="20251009220000 -0600" stop="20251010001500 -0600" channel="AMC">
+    <title lang="es">El duro</title>
+  </programme>
+  <programme start="20251007005400 -0600" stop="20251007012800 -0600" channel="Cinemax">
+    <title lang="es">Fácil</title>
+  </programme>
+  <programme start="20251007012800 -0600" stop="20251007032400 -0600" channel="Cinemax">
+    <title lang="es">La cosa del otro mundo</title>
+  </programme>
+  <programme start="20251007032400 -0600" stop="20251007051500 -0600" channel="Cinemax">
+    <title lang="es">Sin Límites</title>
+  </programme>
+  <programme start="20251007051500 -0600" stop="20251007060000 -0600" channel="Cinemax">
+    <title lang="es">Hollywood one on one</title>
+  </programme>
+  <programme start="20251007060000 -0600" stop="20251007063000 -0600" channel="Cinemax">
+    <title lang="es">Hollywood one on one</title>
+  </programme>
+  <programme start="20251007063000 -0600" stop="20251007090400 -0600" channel="Cinemax">
+    <title lang="es">Huérfanos de Brooklyn</title>
+  </programme>
+  <programme start="20251007090400 -0600" stop="20251007111400 -0600" channel="Cinemax">
+    <title lang="es">Asesinos de élite</title>
+  </programme>
+  <programme start="20251007111400 -0600" stop="20251007131400 -0600" channel="Cinemax">
+    <title lang="es">El vengador</title>
+  </programme>
+  <programme start="20251007131400 -0600" stop="20251007145300 -0600" channel="Cinemax">
+    <title lang="es">Sed de venganza 2</title>
+  </programme>
+  <programme start="20251007145300 -0600" stop="20251007165800 -0600" channel="Cinemax">
+    <title lang="es">Fuerza antigángster</title>
+  </programme>
+  <programme start="20251007165800 -0600" stop="20251007184900 -0600" channel="Cinemax">
+    <title lang="es">Insignias de furia</title>
+  </programme>
+  <programme start="20251007184900 -0600" stop="20251007210000 -0600" channel="Cinemax">
+    <title lang="es">Asesinos de élite</title>
+  </programme>
+  <programme start="20251007210000 -0600" stop="20251007230200 -0600" channel="Cinemax">
+    <title lang="es">El vengador</title>
+  </programme>
+  <programme start="20251007230200 -0600" stop="20251008005000 -0600" channel="Cinemax">
+    <title lang="es">John Wick Sin control</title>
+  </programme>
+  <programme start="20251008005000 -0600" stop="20251008031500 -0600" channel="Cinemax">
+    <title lang="es">El Juez</title>
+  </programme>
+  <programme start="20251008031500 -0600" stop="20251008051100 -0600" channel="Cinemax">
+    <title lang="es">Venganza de la casa del lago</title>
+  </programme>
+  <programme start="20251008051100 -0600" stop="20251008061200 -0600" channel="Cinemax">
+    <title lang="es">Hollywood one on one</title>
+  </programme>
+  <programme start="20251008061200 -0600" stop="20251008093500 -0600" channel="Cinemax">
+    <title lang="es">Batman v Superman: Dawn of Justice</title>
+  </programme>
+  <programme start="20251008093500 -0600" stop="20251008115500 -0600" channel="Cinemax">
+    <title lang="es">Atracción peligrosa</title>
+  </programme>
+  <programme start="20251008115500 -0600" stop="20251008135100 -0600" channel="Cinemax">
+    <title lang="es">El camino de regreso</title>
+  </programme>
+  <programme start="20251008135100 -0600" stop="20251008161400 -0600" channel="Cinemax">
+    <title lang="es">Vivir de Noche</title>
+  </programme>
+  <programme start="20251008161400 -0600" stop="20251008183700 -0600" channel="Cinemax">
+    <title lang="es">El contador</title>
+  </programme>
+  <programme start="20251008183700 -0600" stop="20251008210000 -0600" channel="Cinemax">
+    <title lang="es">Atracción peligrosa</title>
+  </programme>
+  <programme start="20251008210000 -0600" stop="20251009002600 -0600" channel="Cinemax">
+    <title lang="es">Batman v Superman: Dawn of Justice</title>
+  </programme>
+  <programme start="20251009002600 -0600" stop="20251009024100 -0600" channel="Cinemax">
+    <title lang="es">La sombra del poder</title>
+  </programme>
+  <programme start="20251009024100 -0600" stop="20251009044500 -0600" channel="Cinemax">
+    <title lang="es">Cloudy Mountains</title>
+  </programme>
+  <programme start="20251009044500 -0600" stop="20251009060000 -0600" channel="Cinemax">
+    <title lang="es">Hollywood one on one</title>
+  </programme>
+  <programme start="20251009060000 -0600" stop="20251009065500 -0600" channel="Cinemax">
+    <title lang="es">Hollywood one on one</title>
+  </programme>
+  <programme start="20251009065500 -0600" stop="20251009085100 -0600" channel="Cinemax">
+    <title lang="es">¡Huye!</title>
+  </programme>
+  <programme start="20251009085100 -0600" stop="20251009105500 -0600" channel="Cinemax">
+    <title lang="es">La Habitación Del Pánico</title>
+  </programme>
+  <programme start="20251009105500 -0600" stop="20251009131300 -0600" channel="Cinemax">
+    <title lang="es">Dragón Rojo</title>
+  </programme>
+  <programme start="20251009131300 -0600" stop="20251009151800 -0600" channel="Cinemax">
+    <title lang="es">Animales Nocturnos</title>
+  </programme>
+  <programme start="20251009151800 -0600" stop="20251009174200 -0600" channel="Cinemax">
+    <title lang="es">Río Místico</title>
+  </programme>
+  <programme start="20251009174200 -0600" stop="20251009193800 -0600" channel="Cinemax">
+    <title lang="es">Robando vidas</title>
+  </programme>
+  <programme start="20251009193800 -0600" stop="20251009220000 -0600" channel="Cinemax">
+    <title lang="es">Dragón Rojo</title>
+  </programme>
+  <programme start="20251009220000 -0600" stop="20251010002600 -0600" channel="Cinemax">
+    <title lang="es">Hannibal</title>
+  </programme>
+  <programme start="20251007010000 -0600" stop="20251007032400 -0600" channel="Golden Plus">
+    <title lang="es">La Ciudad Perdida de Z</title>
+  </programme>
+  <programme start="20251007032400 -0600" stop="20251007045100 -0600" channel="Golden Plus">
+    <title lang="es">Pánico en las Alturas</title>
+  </programme>
+  <programme start="20251007045100 -0600" stop="20251007062100 -0600" channel="Golden Plus">
+    <title lang="es">El último superviviente</title>
+  </programme>
+  <programme start="20251007062100 -0600" stop="20251007082800 -0600" channel="Golden Plus">
+    <title lang="es">Touchback</title>
+  </programme>
+  <programme start="20251007082800 -0600" stop="20251007103000 -0600" channel="Golden Plus">
+    <title lang="es">Dos son familia</title>
+  </programme>
+  <programme start="20251007103000 -0600" stop="20251007122100 -0600" channel="Golden Plus">
+    <title lang="es">Vanguard</title>
+  </programme>
+  <programme start="20251007122100 -0600" stop="20251007140300 -0600" channel="Golden Plus">
+    <title lang="es">El viaje de Teo</title>
+  </programme>
+  <programme start="20251007140300 -0600" stop="20251007154200 -0600" channel="Golden Plus">
+    <title lang="es">Bajo cero: milagro en la montaña</title>
+  </programme>
+  <programme start="20251007154200 -0600" stop="20251007173600 -0600" channel="Golden Plus">
+    <title lang="es">Promesa de vida</title>
+  </programme>
+  <programme start="20251007173600 -0600" stop="20251007200000 -0600" channel="Golden Plus">
+    <title lang="es">La Ciudad Perdida de Z</title>
+  </programme>
+  <programme start="20251007200000 -0600" stop="20251007220600 -0600" channel="Golden Plus">
+    <title lang="es">No se aceptan devoluciones</title>
+  </programme>
+  <programme start="20251007220600 -0600" stop="20251007235800 -0600" channel="Golden Plus">
+    <title lang="es">La mujer del puerto</title>
+  </programme>
+  <programme start="20251007235800 -0600" stop="20251008021500 -0600" channel="Golden Plus">
+    <title lang="es">El duodécimo hombre</title>
+  </programme>
+  <programme start="20251008021500 -0600" stop="20251008041700 -0600" channel="Golden Plus">
+    <title lang="es">Un lugar maravilloso</title>
+  </programme>
+  <programme start="20251008041700 -0600" stop="20251008054000 -0600" channel="Golden Plus">
+    <title lang="es">Juega conmigo</title>
+  </programme>
+  <programme start="20251008054000 -0600" stop="20251008073400 -0600" channel="Golden Plus">
+    <title lang="es">Promesa de vida</title>
+  </programme>
+  <programme start="20251008073400 -0600" stop="20251008094300 -0600" channel="Golden Plus">
+    <title lang="es">Dobles de acción</title>
+  </programme>
+  <programme start="20251008094300 -0600" stop="20251008124500 -0600" channel="Golden Plus">
+    <title lang="es">Batalla en el lago Changjin</title>
+  </programme>
+  <programme start="20251008124500 -0600" stop="20251008145700 -0600" channel="Golden Plus">
+    <title lang="es">La La Land</title>
+  </programme>
+  <programme start="20251008145700 -0600" stop="20251008170300 -0600" channel="Golden Plus">
+    <title lang="es">No se aceptan devoluciones</title>
+  </programme>
+  <programme start="20251008170300 -0600" stop="20251008183500 -0600" channel="Golden Plus">
+    <title lang="es">Cómplices</title>
+  </programme>
+  <programme start="20251008183500 -0600" stop="20251008200000 -0600" channel="Golden Plus">
+    <title lang="es">Escuela para seductores</title>
+  </programme>
+  <programme start="20251008200000 -0600" stop="20251008214100 -0600" channel="Golden Plus">
+    <title lang="es">Zapatero a tus zapatos</title>
+  </programme>
+  <programme start="20251008214100 -0600" stop="20251008233300 -0600" channel="Golden Plus">
+    <title lang="es">La mujer del puerto</title>
+  </programme>
+  <programme start="20251008233300 -0600" stop="20251009011400 -0600" channel="Golden Plus">
+    <title lang="es">Pánico bajo el agua</title>
+  </programme>
+  <programme start="20251009011400 -0600" stop="20251009025300 -0600" channel="Golden Plus">
+    <title lang="es">Bajo cero: milagro en la montaña</title>
+  </programme>
+  <programme start="20251009025300 -0600" stop="20251009042000 -0600" channel="Golden Plus">
+    <title lang="es">Simio vs Meta Simio</title>
+  </programme>
+  <programme start="20251009042000 -0600" stop="20251009051800 -0600" channel="Golden Plus">
+    <title lang="es">Home Office: Un especial de Mirreyes contra Godínez</title>
+  </programme>
+  <programme start="20251009051800 -0600" stop="20251009065900 -0600" channel="Golden Plus">
+    <title lang="es">Los últimos días en el desierto</title>
+  </programme>
+  <programme start="20251009065900 -0600" stop="20251009084000 -0600" channel="Golden Plus">
+    <title lang="es">Pánico bajo el agua</title>
+  </programme>
+  <programme start="20251009084000 -0600" stop="20251009105700 -0600" channel="Golden Plus">
+    <title lang="es">Día del Atentado</title>
+  </programme>
+  <programme start="20251009105700 -0600" stop="20251009123800 -0600" channel="Golden Plus">
+    <title lang="es">Locura de amor en Las Vegas</title>
+  </programme>
+  <programme start="20251009123800 -0600" stop="20251009144900 -0600" channel="Golden Plus">
+    <title lang="es">Dioses de Egipto</title>
+  </programme>
+  <programme start="20251009144900 -0600" stop="20251009165800 -0600" channel="Golden Plus">
+    <title lang="es">Dobles de acción</title>
+  </programme>
+  <programme start="20251009165800 -0600" stop="20251009200000 -0600" channel="Golden Plus">
+    <title lang="es">Batalla en el lago Changjin</title>
+  </programme>
+  <programme start="20251009200000 -0600" stop="20251009221200 -0600" channel="Golden Plus">
+    <title lang="es">La La Land</title>
+  </programme>
+  <programme start="20251009221200 -0600" stop="20251010000600 -0600" channel="Golden Plus">
+    <title lang="es">Preciosa</title>
+  </programme>
+  <programme start="20251007012400 -0600" stop="20251007033500 -0600" channel="Golden Premier">
+    <title lang="es">El soldado de Dios</title>
+  </programme>
+  <programme start="20251007033500 -0600" stop="20251007050400 -0600" channel="Golden Premier">
+    <title lang="es">Buenas Chicas</title>
+  </programme>
+  <programme start="20251007050400 -0600" stop="20251007063100 -0600" channel="Golden Premier">
+    <title lang="es">Nuevo Orden</title>
+  </programme>
+  <programme start="20251007063100 -0600" stop="20251007083300 -0600" channel="Golden Premier">
+    <title lang="es">Aprendices Fuera de Línea</title>
+  </programme>
+  <programme start="20251007083300 -0600" stop="20251007101500 -0600" channel="Golden Premier">
+    <title lang="es">Últimos días en el desierto</title>
+  </programme>
+  <programme start="20251007101500 -0600" stop="20251007121600 -0600" channel="Golden Premier">
+    <title lang="es">Chocolate</title>
+  </programme>
+  <programme start="20251007121600 -0600" stop="20251007134900 -0600" channel="Golden Premier">
+    <title lang="es">¿Conoces a Tomás?</title>
+  </programme>
+  <programme start="20251007134900 -0600" stop="20251007153000 -0600" channel="Golden Premier">
+    <title lang="es">Amor letra por letra</title>
+  </programme>
+  <programme start="20251007153000 -0600" stop="20251007171500 -0600" channel="Golden Premier">
+    <title lang="es">Atlético San Pancho</title>
+  </programme>
+  <programme start="20251007171500 -0600" stop="20251007185100 -0600" channel="Golden Premier">
+    <title lang="es">Chilangolandia</title>
+  </programme>
+  <programme start="20251007185100 -0600" stop="20251007203600 -0600" channel="Golden Premier">
+    <title lang="es">Cantinflas</title>
+  </programme>
+  <programme start="20251007203600 -0600" stop="20251007220000 -0600" channel="Golden Premier">
+    <title lang="es">Abel</title>
+  </programme>
+  <programme start="20251007220000 -0600" stop="20251007234700 -0600" channel="Golden Premier">
+    <title lang="es">Kilometro 31</title>
+  </programme>
+  <programme start="20251007234700 -0600" stop="20251008013200 -0600" channel="Golden Premier">
+    <title lang="es">My Favorite Teacher</title>
+  </programme>
+  <programme start="20251008013200 -0600" stop="20251008030400 -0600" channel="Golden Premier">
+    <title lang="es">Madurando y otras mentiras</title>
+  </programme>
+  <programme start="20251008030400 -0600" stop="20251008044100 -0600" channel="Golden Premier">
+    <title lang="es">Fachon Models</title>
+  </programme>
+  <programme start="20251008044100 -0600" stop="20251008061600 -0600" channel="Golden Premier">
+    <title lang="es">Educando a mamá</title>
+  </programme>
+  <programme start="20251008061600 -0600" stop="20251008080100 -0600" channel="Golden Premier">
+    <title lang="es">Atlético San Pancho</title>
+  </programme>
+  <programme start="20251008080100 -0600" stop="20251008092500 -0600" channel="Golden Premier">
+    <title lang="es">Abel</title>
+  </programme>
+  <programme start="20251008092500 -0600" stop="20251008111000 -0600" channel="Golden Premier">
+    <title lang="es">Cantinflas</title>
+  </programme>
+  <programme start="20251008111000 -0600" stop="20251008125700 -0600" channel="Golden Premier">
+    <title lang="es">Cicada 3301</title>
+  </programme>
+  <programme start="20251008125700 -0600" stop="20251008144100 -0600" channel="Golden Premier">
+    <title lang="es">Bayoneta</title>
+  </programme>
+  <programme start="20251008144100 -0600" stop="20251008161400 -0600" channel="Golden Premier">
+    <title lang="es">Emboscada</title>
+  </programme>
+  <programme start="20251008161400 -0600" stop="20251008181100 -0600" channel="Golden Premier">
+    <title lang="es">2067</title>
+  </programme>
+  <programme start="20251008181100 -0600" stop="20251008195500 -0600" channel="Golden Premier">
+    <title lang="es">Contra reloj</title>
+  </programme>
+  <programme start="20251008195500 -0600" stop="20251008220000 -0600" channel="Golden Premier">
+    <title lang="es">Ad Astra: Hacia las Estrellas</title>
+  </programme>
+  <programme start="20251008220000 -0600" stop="20251008235000 -0600" channel="Golden Premier">
+    <title lang="es">Final del viaje</title>
+  </programme>
+  <programme start="20251008235000 -0600" stop="20251009011700 -0600" channel="Golden Premier">
+    <title lang="es">Obsessed</title>
+  </programme>
+  <programme start="20251009011700 -0600" stop="20251009035700 -0600" channel="Golden Premier">
+    <title lang="es">La noche más oscura</title>
+  </programme>
+  <programme start="20251009035700 -0600" stop="20251009055100 -0600" channel="Golden Premier">
+    <title lang="es">Los caballeros</title>
+  </programme>
+  <programme start="20251009055100 -0600" stop="20251009073500 -0600" channel="Golden Premier">
+    <title lang="es">Contra reloj</title>
+  </programme>
+  <programme start="20251009073500 -0600" stop="20251009090800 -0600" channel="Golden Premier">
+    <title lang="es">Emboscada</title>
+  </programme>
+  <programme start="20251009090800 -0600" stop="20251009111300 -0600" channel="Golden Premier">
+    <title lang="es">Ad Astra: Hacia las Estrellas</title>
+  </programme>
+  <programme start="20251009111300 -0600" stop="20251009125700 -0600" channel="Golden Premier">
+    <title lang="es">Bayoneta</title>
+  </programme>
+  <programme start="20251009125700 -0600" stop="20251009144800 -0600" channel="Golden Premier">
+    <title lang="es">Arráncame la vida</title>
+  </programme>
+  <programme start="20251009144800 -0600" stop="20251009163500 -0600" channel="Golden Premier">
+    <title lang="es">Todo el Poder</title>
+  </programme>
+  <programme start="20251009163500 -0600" stop="20251009182800 -0600" channel="Golden Premier">
+    <title lang="es">Voces inocentes</title>
+  </programme>
+  <programme start="20251009182800 -0600" stop="20251009201600 -0600" channel="Golden Premier">
+    <title lang="es">Fuera del cielo</title>
+  </programme>
+  <programme start="20251009201600 -0600" stop="20251009220000 -0600" channel="Golden Premier">
+    <title lang="es">Me estas matando Susana</title>
+  </programme>
+  <programme start="20251009220000 -0600" stop="20251009233200 -0600" channel="Golden Premier">
+    <title lang="es">Nicotina</title>
+  </programme>
+  <programme start="20251009233200 -0600" stop="20251010010600 -0600" channel="Golden Premier">
+    <title lang="es">Poon Raider</title>
+  </programme>
+  <programme start="20251007000100 -0600" stop="20251007015700 -0600" channel="FX">
+    <title lang="es">Ma</title>
+  </programme>
+  <programme start="20251007015700 -0600" stop="20251007034400 -0600" channel="FX">
+    <title lang="es">Mente siniestra</title>
+  </programme>
+  <programme start="20251007034400 -0600" stop="20251007051800 -0600" channel="FX">
+    <title lang="es">Perdiendo el este</title>
+  </programme>
+  <programme start="20251007051800 -0600" stop="20251007060500 -0600" channel="FX">
+    <title lang="es">The amazing race</title>
+  </programme>
+  <programme start="20251007060500 -0600" stop="20251007070000 -0600" channel="FX">
+    <title lang="es">The amazing race</title>
+  </programme>
+  <programme start="20251007070000 -0600" stop="20251007075700 -0600" channel="FX">
+    <title lang="es">The amazing race</title>
+  </programme>
+  <programme start="20251007075700 -0600" stop="20251007085400 -0600" channel="FX">
+    <title lang="es">The amazing race</title>
+  </programme>
+  <programme start="20251007085400 -0600" stop="20251007112400 -0600" channel="FX">
+    <title lang="es">Los 33</title>
+  </programme>
+  <programme start="20251007112400 -0600" stop="20251007133500 -0600" channel="FX">
+    <title lang="es">Perdida</title>
+  </programme>
+  <programme start="20251007133500 -0600" stop="20251007155000 -0600" channel="FX">
+    <title lang="es">Días perrunos</title>
+  </programme>
+  <programme start="20251007155000 -0600" stop="20251007180100 -0600" channel="FX">
+    <title lang="es">Sir Alex Ferguson La Leyenda</title>
+  </programme>
+  <programme start="20251007180100 -0600" stop="20251007200000 -0600" channel="FX">
+    <title lang="es">Réplicas</title>
+  </programme>
+  <programme start="20251007200000 -0600" stop="20251007220000 -0600" channel="FX">
+    <title lang="es">Todopoderoso</title>
+  </programme>
+  <programme start="20251007220000 -0600" stop="20251007235000 -0600" channel="FX">
+    <title lang="es">Tierra</title>
+  </programme>
+  <programme start="20251007235000 -0600" stop="20251008015700 -0600" channel="FX">
+    <title lang="es">El Protegido</title>
+  </programme>
+  <programme start="20251008015700 -0600" stop="20251008034400 -0600" channel="FX">
+    <title lang="es">Una Familia Numerosa</title>
+  </programme>
+  <programme start="20251008034400 -0600" stop="20251008051800 -0600" channel="FX">
+    <title lang="es">Perdiendo el este</title>
+  </programme>
+  <programme start="20251008051800 -0600" stop="20251008060500 -0600" channel="FX">
+    <title lang="es">The amazing race</title>
+  </programme>
+  <programme start="20251008060500 -0600" stop="20251008070000 -0600" channel="FX">
+    <title lang="es">The amazing race</title>
+  </programme>
+  <programme start="20251008070000 -0600" stop="20251008075400 -0600" channel="FX">
+    <title lang="es">The amazing race</title>
+  </programme>
+  <programme start="20251008075400 -0600" stop="20251008084800 -0600" channel="FX">
+    <title lang="es">The amazing race</title>
+  </programme>
+  <programme start="20251008084800 -0600" stop="20251008104700 -0600" channel="FX">
+    <title lang="es">¿Qué te juegas?</title>
+  </programme>
+  <programme start="20251008104700 -0600" stop="20251008124100 -0600" channel="FX">
+    <title lang="es">Hitman: Agente 47</title>
+  </programme>
+  <programme start="20251008124100 -0600" stop="20251008151200 -0600" channel="FX">
+    <title lang="es">Enemigo público</title>
+  </programme>
+  <programme start="20251008151200 -0600" stop="20251008173200 -0600" channel="FX">
+    <title lang="es">Máxima Velocidad</title>
+  </programme>
+  <programme start="20251008173200 -0600" stop="20251008201500 -0600" channel="FX">
+    <title lang="es">Contra/Cara</title>
+  </programme>
+  <programme start="20251008201500 -0600" stop="20251008220000 -0600" channel="FX">
+    <title lang="es">El Transportador 2</title>
+  </programme>
+  <programme start="20251008220000 -0600" stop="20251009000500 -0600" channel="FX">
+    <title lang="es">El Protegido</title>
+  </programme>
+  <programme start="20251009000500 -0600" stop="20251009020800 -0600" channel="FX">
+    <title lang="es">Mente siniestra</title>
+  </programme>
+  <programme start="20251009020800 -0600" stop="20251009035400 -0600" channel="FX">
+    <title lang="es">Agentes del desorden</title>
+  </programme>
+  <programme start="20251009035400 -0600" stop="20251009044100 -0600" channel="FX">
+    <title lang="es">The amazing race</title>
+  </programme>
+  <programme start="20251009044100 -0600" stop="20251009070000 -0600" channel="FX">
+    <title lang="es">The amazing race</title>
+  </programme>
+  <programme start="20251009070000 -0600" stop="20251009080500 -0600" channel="FX">
+    <title lang="es">The amazing race</title>
+  </programme>
+  <programme start="20251009080500 -0600" stop="20251009090200 -0600" channel="FX">
+    <title lang="es">The amazing race</title>
+  </programme>
+  <programme start="20251009090200 -0600" stop="20251009105500 -0600" channel="FX">
+    <title lang="es">Cuenta final</title>
+  </programme>
+  <programme start="20251009105500 -0600" stop="20251009132300 -0600" channel="FX">
+    <title lang="es">Los 33</title>
+  </programme>
+  <programme start="20251009132300 -0600" stop="20251009151400 -0600" channel="FX">
+    <title lang="es">Les Affamés</title>
+  </programme>
+  <programme start="20251009151400 -0600" stop="20251009172300 -0600" channel="FX">
+    <title lang="es">Casanova</title>
+  </programme>
+  <programme start="20251009172300 -0600" stop="20251009201100 -0600" channel="FX">
+    <title lang="es">Operación Red Sparrow</title>
+  </programme>
+  <programme start="20251009201100 -0600" stop="20251009220000 -0600" channel="FX">
+    <title lang="es">Alien vs. Depredador 2</title>
+  </programme>
+  <programme start="20251009220000 -0600" stop="20251009235800 -0600" channel="FX">
+    <title lang="es">Todopoderoso</title>
+  </programme>
+  <programme start="20251009235800 -0600" stop="20251010020100 -0600" channel="FX">
+    <title lang="es">Agentes del desorden</title>
+  </programme>
+  <programme start="20251007005600 -0600" stop="20251007011600 -0600" channel="Warner">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20251007011600 -0600" stop="20251007013700 -0600" channel="Warner">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20251007013700 -0600" stop="20251007015900 -0600" channel="Warner">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20251007015900 -0600" stop="20251007022100 -0600" channel="Warner">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20251007022100 -0600" stop="20251007024400 -0600" channel="Warner">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20251007024400 -0600" stop="20251007030600 -0600" channel="Warner">
+    <title lang="es">Two and a Half Men</title>
+  </programme>
+  <programme start="20251007030600 -0600" stop="20251007032900 -0600" channel="Warner">
+    <title lang="es">Two and a Half Men</title>
+  </programme>
+  <programme start="20251007032900 -0600" stop="20251007035200 -0600" channel="Warner">
+    <title lang="es">Two and a Half Men</title>
+  </programme>
+  <programme start="20251007035200 -0600" stop="20251007041300 -0600" channel="Warner">
+    <title lang="es">Two and a Half Men</title>
+  </programme>
+  <programme start="20251007041300 -0600" stop="20251007043700 -0600" channel="Warner">
+    <title lang="es">Two and a Half Men</title>
+  </programme>
+  <programme start="20251007043700 -0600" stop="20251007050000 -0600" channel="Warner">
+    <title lang="es">Two and a Half Men</title>
+  </programme>
+  <programme start="20251007050000 -0600" stop="20251007054700 -0600" channel="Warner">
+    <title lang="es">The Cleaning Lady</title>
+  </programme>
+  <programme start="20251007054700 -0600" stop="20251007060000 -0600" channel="Warner">
+    <title lang="es">Hollywood one on one</title>
+  </programme>
+  <programme start="20251007060000 -0600" stop="20251007070000 -0600" channel="Warner">
+    <title lang="es">The Flash</title>
+  </programme>
+  <programme start="20251007070000 -0600" stop="20251007085100 -0600" channel="Warner">
+    <title lang="es">La batalla de Riddick</title>
+  </programme>
+  <programme start="20251007085100 -0600" stop="20251007091500 -0600" channel="Warner">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20251007091500 -0600" stop="20251007093700 -0600" channel="Warner">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20251007093700 -0600" stop="20251007100000 -0600" channel="Warner">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20251007100000 -0600" stop="20251007102300 -0600" channel="Warner">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20251007102300 -0600" stop="20251007104200 -0600" channel="Warner">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20251007104200 -0600" stop="20251007110400 -0600" channel="Warner">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20251007110400 -0600" stop="20251007112800 -0600" channel="Warner">
+    <title lang="es">Two and a Half Men</title>
+  </programme>
+  <programme start="20251007112800 -0600" stop="20251007115100 -0600" channel="Warner">
+    <title lang="es">Two and a Half Men</title>
+  </programme>
+  <programme start="20251007115100 -0600" stop="20251007121400 -0600" channel="Warner">
+    <title lang="es">Two and a Half Men</title>
+  </programme>
+  <programme start="20251007121400 -0600" stop="20251007123600 -0600" channel="Warner">
+    <title lang="es">Two and a Half Men</title>
+  </programme>
+  <programme start="20251007123600 -0600" stop="20251007130000 -0600" channel="Warner">
+    <title lang="es">Two and a Half Men</title>
+  </programme>
+  <programme start="20251007130000 -0600" stop="20251007132400 -0600" channel="Warner">
+    <title lang="es">Two and a Half Men</title>
+  </programme>
+  <programme start="20251007132400 -0600" stop="20251007135900 -0600" channel="Warner">
+    <title lang="es">Cobra Kai</title>
+  </programme>
+  <programme start="20251007135900 -0600" stop="20251007154200 -0600" channel="Warner">
+    <title lang="es">17 otra vez</title>
+  </programme>
+  <programme start="20251007154200 -0600" stop="20251007173600 -0600" channel="Warner">
+    <title lang="es">Contrabando</title>
+  </programme>
+  <programme start="20251007173600 -0600" stop="20251007200100 -0600" channel="Warner">
+    <title lang="es">Meteoro</title>
+  </programme>
+  <programme start="20251007200100 -0600" stop="20251007220000 -0600" channel="Warner">
+    <title lang="es">Red: Retirados extremadamente duros</title>
+  </programme>
+  <programme start="20251007220000 -0600" stop="20251008002600 -0600" channel="Warner">
+    <title lang="es">Shazam!</title>
+  </programme>
+  <programme start="20251008002600 -0600" stop="20251008005000 -0600" channel="Warner">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20251008005000 -0600" stop="20251008011100 -0600" channel="Warner">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20251008011100 -0600" stop="20251008013500 -0600" channel="Warner">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20251008013500 -0600" stop="20251008015700 -0600" channel="Warner">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20251008015700 -0600" stop="20251008021700 -0600" channel="Warner">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20251008021700 -0600" stop="20251008023800 -0600" channel="Warner">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20251008023800 -0600" stop="20251008030100 -0600" channel="Warner">
+    <title lang="es">Two and a Half Men</title>
+  </programme>
+  <programme start="20251008030100 -0600" stop="20251008032400 -0600" channel="Warner">
+    <title lang="es">Two and a Half Men</title>
+  </programme>
+  <programme start="20251008032400 -0600" stop="20251008034500 -0600" channel="Warner">
+    <title lang="es">Two and a Half Men</title>
+  </programme>
+  <programme start="20251008034500 -0600" stop="20251008040800 -0600" channel="Warner">
+    <title lang="es">Two and a Half Men</title>
+  </programme>
+  <programme start="20251008040800 -0600" stop="20251008043000 -0600" channel="Warner">
+    <title lang="es">Two and a Half Men</title>
+  </programme>
+  <programme start="20251008043000 -0600" stop="20251008045300 -0600" channel="Warner">
+    <title lang="es">Two and a Half Men</title>
+  </programme>
+  <programme start="20251008045300 -0600" stop="20251008060000 -0600" channel="Warner">
+    <title lang="es">Cobra Kai</title>
+  </programme>
+  <programme start="20251008060000 -0600" stop="20251008073100 -0600" channel="Warner">
+    <title lang="es">The Flash</title>
+  </programme>
+  <programme start="20251008073100 -0600" stop="20251008092200 -0600" channel="Warner">
+    <title lang="es">El gran golpe</title>
+  </programme>
+  <programme start="20251008092200 -0600" stop="20251008094400 -0600" channel="Warner">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20251008094400 -0600" stop="20251008100500 -0600" channel="Warner">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20251008100500 -0600" stop="20251008102600 -0600" channel="Warner">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20251008102600 -0600" stop="20251008104800 -0600" channel="Warner">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20251008104800 -0600" stop="20251008111000 -0600" channel="Warner">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20251008111000 -0600" stop="20251008113200 -0600" channel="Warner">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20251008113200 -0600" stop="20251008115400 -0600" channel="Warner">
+    <title lang="es">Two and a Half Men</title>
+  </programme>
+  <programme start="20251008115400 -0600" stop="20251008121800 -0600" channel="Warner">
+    <title lang="es">Two and a Half Men</title>
+  </programme>
+  <programme start="20251008121800 -0600" stop="20251008123800 -0600" channel="Warner">
+    <title lang="es">Two and a Half Men</title>
+  </programme>
+  <programme start="20251008123800 -0600" stop="20251008130100 -0600" channel="Warner">
+    <title lang="es">Two and a Half Men</title>
+  </programme>
+  <programme start="20251008130100 -0600" stop="20251008132500 -0600" channel="Warner">
+    <title lang="es">Two and a Half Men</title>
+  </programme>
+  <programme start="20251008132500 -0600" stop="20251008134900 -0600" channel="Warner">
+    <title lang="es">Two and a Half Men</title>
+  </programme>
+  <programme start="20251008134900 -0600" stop="20251008142000 -0600" channel="Warner">
+    <title lang="es">Cobra Kai</title>
+  </programme>
+  <programme start="20251008142000 -0600" stop="20251008155800 -0600" channel="Warner">
+    <title lang="es">Plan de escape El rescate</title>
+  </programme>
+  <programme start="20251008155800 -0600" stop="20251008175500 -0600" channel="Warner">
+    <title lang="es">Red: Retirados extremadamente duros</title>
+  </programme>
+  <programme start="20251008175500 -0600" stop="20251008195600 -0600" channel="Warner">
+    <title lang="es">Protegiendo al enemigo</title>
+  </programme>
+  <programme start="20251008195600 -0600" stop="20251008220000 -0600" channel="Warner">
+    <title lang="es">Solo para parejas</title>
+  </programme>
+  <programme start="20251008220000 -0600" stop="20251008223000 -0600" channel="Warner">
+    <title lang="es">Cobra Kai</title>
+  </programme>
+  <programme start="20251008223000 -0600" stop="20251008225800 -0600" channel="Warner">
+    <title lang="es">Cobra Kai</title>
+  </programme>
+  <programme start="20251008225800 -0600" stop="20251008234500 -0600" channel="Warner">
+    <title lang="es">Found</title>
+  </programme>
+  <programme start="20251008234500 -0600" stop="20251009003100 -0600" channel="Warner">
+    <title lang="es">All American: Homecoming</title>
+  </programme>
+  <programme start="20251009003100 -0600" stop="20251009005400 -0600" channel="Warner">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20251009005400 -0600" stop="20251009011500 -0600" channel="Warner">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20251009011500 -0600" stop="20251009013500 -0600" channel="Warner">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20251009013500 -0600" stop="20251009015700 -0600" channel="Warner">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20251009015700 -0600" stop="20251009022000 -0600" channel="Warner">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20251009022000 -0600" stop="20251009024000 -0600" channel="Warner">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20251009024000 -0600" stop="20251009030200 -0600" channel="Warner">
+    <title lang="es">Two and a Half Men</title>
+  </programme>
+  <programme start="20251009030200 -0600" stop="20251009032400 -0600" channel="Warner">
+    <title lang="es">Two and a Half Men</title>
+  </programme>
+  <programme start="20251009032400 -0600" stop="20251009034500 -0600" channel="Warner">
+    <title lang="es">Two and a Half Men</title>
+  </programme>
+  <programme start="20251009034500 -0600" stop="20251009040600 -0600" channel="Warner">
+    <title lang="es">Two and a Half Men</title>
+  </programme>
+  <programme start="20251009040600 -0600" stop="20251009042900 -0600" channel="Warner">
+    <title lang="es">Two and a Half Men</title>
+  </programme>
+  <programme start="20251009042900 -0600" stop="20251009045200 -0600" channel="Warner">
+    <title lang="es">Two and a Half Men</title>
+  </programme>
+  <programme start="20251009045200 -0600" stop="20251009060000 -0600" channel="Warner">
+    <title lang="es">Cobra Kai</title>
+  </programme>
+  <programme start="20251009060000 -0600" stop="20251009080000 -0600" channel="Warner">
+    <title lang="es">The Flash</title>
+  </programme>
+  <programme start="20251009080000 -0600" stop="20251009082300 -0600" channel="Warner">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20251009082300 -0600" stop="20251009084400 -0600" channel="Warner">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20251009084400 -0600" stop="20251009090600 -0600" channel="Warner">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20251009090600 -0600" stop="20251009092800 -0600" channel="Warner">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20251009092800 -0600" stop="20251009095000 -0600" channel="Warner">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20251009095000 -0600" stop="20251009101200 -0600" channel="Warner">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20251009101200 -0600" stop="20251009103400 -0600" channel="Warner">
+    <title lang="es">Two and a Half Men</title>
+  </programme>
+  <programme start="20251009103400 -0600" stop="20251009105700 -0600" channel="Warner">
+    <title lang="es">Two and a Half Men</title>
+  </programme>
+  <programme start="20251009105700 -0600" stop="20251009112100 -0600" channel="Warner">
+    <title lang="es">Two and a Half Men</title>
+  </programme>
+  <programme start="20251009112100 -0600" stop="20251009114300 -0600" channel="Warner">
+    <title lang="es">Two and a Half Men</title>
+  </programme>
+  <programme start="20251009114300 -0600" stop="20251009120500 -0600" channel="Warner">
+    <title lang="es">Two and a Half Men</title>
+  </programme>
+  <programme start="20251009120500 -0600" stop="20251009123000 -0600" channel="Warner">
+    <title lang="es">Two and a Half Men</title>
+  </programme>
+  <programme start="20251009123000 -0600" stop="20251009125900 -0600" channel="Warner">
+    <title lang="es">Cobra Kai</title>
+  </programme>
+  <programme start="20251009125900 -0600" stop="20251009145900 -0600" channel="Warner">
+    <title lang="es">Solo para parejas</title>
+  </programme>
+  <programme start="20251009145900 -0600" stop="20251009172500 -0600" channel="Warner">
+    <title lang="es">Shazam!</title>
+  </programme>
+  <programme start="20251009172500 -0600" stop="20251009195500 -0600" channel="Warner">
+    <title lang="es">Los Juegos del Hambre: En Llamas</title>
+  </programme>
+  <programme start="20251009195500 -0600" stop="20251009220000 -0600" channel="Warner">
+    <title lang="es">Los Juegos del Hambre: Sinsajo - Parte 1</title>
+  </programme>
+  <programme start="20251009220000 -0600" stop="20251010003100 -0600" channel="Warner">
+    <title lang="es">Los juegos del hambre: Sinsajo, parte 2</title>
+  </programme>
+  <programme start="20251007010000 -0600" stop="20251007020000 -0600" channel="ESPN 1 MX">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20251007020000 -0600" stop="20251007030000 -0600" channel="ESPN 1 MX">
+    <title lang="es">Futbol Picante</title>
+  </programme>
+  <programme start="20251007030000 -0600" stop="20251007040000 -0600" channel="ESPN 1 MX">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20251007040000 -0600" stop="20251007050000 -0600" channel="ESPN 1 MX">
+    <title lang="es">ESPN Enfocados</title>
+  </programme>
+  <programme start="20251007050000 -0600" stop="20251007060000 -0600" channel="ESPN 1 MX">
+    <title lang="es">Generación Futbol</title>
+  </programme>
+  <programme start="20251007060000 -0600" stop="20251007070000 -0600" channel="ESPN 1 MX">
+    <title lang="es">Futbol Picante</title>
+  </programme>
+  <programme start="20251007070000 -0600" stop="20251007080000 -0600" channel="ESPN 1 MX">
+    <title lang="es">Futbol Picante</title>
+  </programme>
+  <programme start="20251007080000 -0600" stop="20251007090000 -0600" channel="ESPN 1 MX">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20251007090000 -0600" stop="20251007100000 -0600" channel="ESPN 1 MX">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20251007100000 -0600" stop="20251007120000 -0600" channel="ESPN 1 MX">
+    <title lang="es">Chiefs vs. Jaguars</title>
+  </programme>
+  <programme start="20251007120000 -0600" stop="20251007130000 -0600" channel="ESPN 1 MX">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20251007130000 -0600" stop="20251007140000 -0600" channel="ESPN 1 MX">
+    <title lang="es">Futbol Picante</title>
+  </programme>
+  <programme start="20251007140000 -0600" stop="20251007150000 -0600" channel="ESPN 1 MX">
+    <title lang="es">Equipo Futbol</title>
+  </programme>
+  <programme start="20251007150000 -0600" stop="20251007160000 -0600" channel="ESPN 1 MX">
+    <title lang="es">ESPN Enfocados</title>
+  </programme>
+  <programme start="20251007160000 -0600" stop="20251007170000 -0600" channel="ESPN 1 MX">
+    <title lang="es">Generación Futbol</title>
+  </programme>
+  <programme start="20251007170000 -0600" stop="20251007180000 -0600" channel="ESPN 1 MX">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20251007180000 -0600" stop="20251007190000 -0600" channel="ESPN 1 MX">
+    <title lang="es">30 for 30 Berlusconi</title>
+  </programme>
+  <programme start="20251007190000 -0600" stop="20251007200000 -0600" channel="ESPN 1 MX">
+    <title lang="es">30 for 30 Berlusconi</title>
+  </programme>
+  <programme start="20251007200000 -0600" stop="20251007210000 -0600" channel="ESPN 1 MX">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20251007210000 -0600" stop="20251007220000 -0600" channel="ESPN 1 MX">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20251007220000 -0600" stop="20251007230000 -0600" channel="ESPN 1 MX">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20251007230000 -0600" stop="20251008000000 -0600" channel="ESPN 1 MX">
+    <title lang="es">Futbol Picante</title>
+  </programme>
+  <programme start="20251008000000 -0600" stop="20251008010000 -0600" channel="ESPN 1 MX">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20251008010000 -0600" stop="20251008020000 -0600" channel="ESPN 1 MX">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20251008020000 -0600" stop="20251008030000 -0600" channel="ESPN 1 MX">
+    <title lang="es">Futbol Picante</title>
+  </programme>
+  <programme start="20251008030000 -0600" stop="20251008040000 -0600" channel="ESPN 1 MX">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20251008040000 -0600" stop="20251008050000 -0600" channel="ESPN 1 MX">
+    <title lang="es">ESPN Enfocados</title>
+  </programme>
+  <programme start="20251008050000 -0600" stop="20251008060000 -0600" channel="ESPN 1 MX">
+    <title lang="es">Generación Futbol</title>
+  </programme>
+  <programme start="20251008060000 -0600" stop="20251008070000 -0600" channel="ESPN 1 MX">
+    <title lang="es">Futbol Picante</title>
+  </programme>
+  <programme start="20251008070000 -0600" stop="20251008080000 -0600" channel="ESPN 1 MX">
+    <title lang="es">Futbol Picante</title>
+  </programme>
+  <programme start="20251008080000 -0600" stop="20251008090000 -0600" channel="ESPN 1 MX">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20251008090000 -0600" stop="20251008100000 -0600" channel="ESPN 1 MX">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20251008100000 -0600" stop="20251008120000 -0600" channel="ESPN 1 MX">
+    <title lang="es">Juventus vs. Milan</title>
+  </programme>
+  <programme start="20251008120000 -0600" stop="20251008130000 -0600" channel="ESPN 1 MX">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20251008130000 -0600" stop="20251008140000 -0600" channel="ESPN 1 MX">
+    <title lang="es">Futbol Picante</title>
+  </programme>
+  <programme start="20251008140000 -0600" stop="20251008150000 -0600" channel="ESPN 1 MX">
+    <title lang="es">Equipo Futbol</title>
+  </programme>
+  <programme start="20251008150000 -0600" stop="20251008160000 -0600" channel="ESPN 1 MX">
+    <title lang="es">ESPN Enfocados</title>
+  </programme>
+  <programme start="20251008160000 -0600" stop="20251008170000 -0600" channel="ESPN 1 MX">
+    <title lang="es">Generación Futbol</title>
+  </programme>
+  <programme start="20251008170000 -0600" stop="20251008180000 -0600" channel="ESPN 1 MX">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20251008180000 -0600" stop="20251008190000 -0600" channel="ESPN 1 MX">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20251008190000 -0600" stop="20251008220000 -0600" channel="ESPN 1 MX">
+    <title lang="es">2025 NLDS</title>
+  </programme>
+  <programme start="20251008220000 -0600" stop="20251008230000 -0600" channel="ESPN 1 MX">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20251008230000 -0600" stop="20251009000000 -0600" channel="ESPN 1 MX">
+    <title lang="es">Futbol Picante</title>
+  </programme>
+  <programme start="20251009000000 -0600" stop="20251009010000 -0600" channel="ESPN 1 MX">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20251009010000 -0600" stop="20251009020000 -0600" channel="ESPN 1 MX">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20251009020000 -0600" stop="20251009030000 -0600" channel="ESPN 1 MX">
+    <title lang="es">Futbol Picante</title>
+  </programme>
+  <programme start="20251009030000 -0600" stop="20251009040000 -0600" channel="ESPN 1 MX">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20251009040000 -0600" stop="20251009050000 -0600" channel="ESPN 1 MX">
+    <title lang="es">ESPN Enfocados</title>
+  </programme>
+  <programme start="20251009050000 -0600" stop="20251009060000 -0600" channel="ESPN 1 MX">
+    <title lang="es">Generación Futbol</title>
+  </programme>
+  <programme start="20251009060000 -0600" stop="20251009070000 -0600" channel="ESPN 1 MX">
+    <title lang="es">Futbol Picante</title>
+  </programme>
+  <programme start="20251009070000 -0600" stop="20251009080000 -0600" channel="ESPN 1 MX">
+    <title lang="es">Futbol Picante</title>
+  </programme>
+  <programme start="20251009080000 -0600" stop="20251009090000 -0600" channel="ESPN 1 MX">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20251009090000 -0600" stop="20251009100000 -0600" channel="ESPN 1 MX">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20251009100000 -0600" stop="20251009110000 -0600" channel="ESPN 1 MX">
+    <title lang="es">30 for 30 Berlusconi</title>
+  </programme>
+  <programme start="20251009110000 -0600" stop="20251009120000 -0600" channel="ESPN 1 MX">
+    <title lang="es">30 for 30 Berlusconi</title>
+  </programme>
+  <programme start="20251009120000 -0600" stop="20251009130000 -0600" channel="ESPN 1 MX">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20251009130000 -0600" stop="20251009140000 -0600" channel="ESPN 1 MX">
+    <title lang="es">Futbol Picante</title>
+  </programme>
+  <programme start="20251009140000 -0600" stop="20251009150000 -0600" channel="ESPN 1 MX">
+    <title lang="es">Equipo Futbol</title>
+  </programme>
+  <programme start="20251009150000 -0600" stop="20251009160000 -0600" channel="ESPN 1 MX">
+    <title lang="es">ESPN Enfocados</title>
+  </programme>
+  <programme start="20251009160000 -0600" stop="20251009170000 -0600" channel="ESPN 1 MX">
+    <title lang="es">Generación Futbol</title>
+  </programme>
+  <programme start="20251009170000 -0600" stop="20251009180000 -0600" channel="ESPN 1 MX">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20251009180000 -0600" stop="20251009190000 -0600" channel="ESPN 1 MX">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20251009190000 -0600" stop="20251009220000 -0600" channel="ESPN 1 MX">
+    <title lang="es">2025 NLDS</title>
+  </programme>
+  <programme start="20251009220000 -0600" stop="20251009230000 -0600" channel="ESPN 1 MX">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20251009230000 -0600" stop="20251010000000 -0600" channel="ESPN 1 MX">
+    <title lang="es">Futbol Picante</title>
+  </programme>
+</tv>
